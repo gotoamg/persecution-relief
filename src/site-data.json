@@ -1,0 +1,1367 @@
+{
+  "hero": {
+    "config": {
+      "layout": {
+        "height": "custom",
+        "maxWidth": 1200,
+        "fullWidth": true,
+        "contentAlign": "center",
+        "customHeight": {
+          "mobile": 400,
+          "tablet": 500,
+          "desktop": 600
+        },
+        "verticalAlign": "middle"
+      },
+      "slider": {
+        "loop": true,
+        "enabled": true,
+        "autoplay": true,
+        "keyboardNav": true,
+        "pauseOnHover": true,
+        "autoplaySpeed": 5000,
+        "swipeOnMobile": true,
+        "transitionSpeed": 600
+      },
+      "slides": [
+        {
+          "id": "slide-1773467865465-h01u5pkpz",
+          "title": "Stand for Justice: Empowering Persecuted Christians in India.",
+          "subtitle": "Every day, innocent Christians face severe persecution. Your support provides vital legal aid, financial relief, and a voice to the voiceless.",
+          "description": "",
+          "overlayColor": "#000000",
+          "primaryButton": {
+            "link": "#contact",
+            "text": "Report Persecution"
+          },
+          "overlayOpacity": 50,
+          "backgroundImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+          "secondaryButton": {
+            "link": "#about",
+            "text": "Call Now"
+          }
+        },
+        {
+          "id": "slide-1773467865465-a4unniyqu",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "overlayColor": "#000000",
+          "overlayOpacity": 50,
+          "backgroundImage": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=1920&q=80"
+        },
+        {
+          "id": "slide-1773467865465-dd9qkogbf",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "overlayColor": "#000000",
+          "overlayOpacity": 50,
+          "backgroundImage": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80"
+        }
+      ],
+      "animation": {
+        "textAnimation": "fade",
+        "transitionType": "fade",
+        "textAnimationDelay": 200
+      },
+      "navigation": {
+        "showDots": true,
+        "showArrows": true,
+        "dotPosition": "bottom-center",
+        "arrowPosition": "inside"
+      },
+      "responsive": {
+        "heights": {
+          "mobile": 400,
+          "tablet": 500,
+          "desktop": 600
+        },
+        "fontSizes": {
+          "mobile": {
+            "title": "2rem",
+            "subtitle": "1rem",
+            "description": "0.875rem"
+          },
+          "tablet": {
+            "title": "3rem",
+            "subtitle": "1.25rem",
+            "description": "1rem"
+          },
+          "desktop": {
+            "title": "4rem",
+            "subtitle": "1.5rem",
+            "description": "1.125rem"
+          }
+        },
+        "hideTextOnMobile": false
+      },
+      "performance": {
+        "lazyLoadImages": true,
+        "pauseWhenHidden": true,
+        "preloadFirstSlide": true
+      }
+    },
+    "layout": "centered",
+    "heading": "Stand for Justice: Empowering Persecuted Christians in India.",
+    "heroImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+    "imageBlur": 0,
+    "heroImages": [
+      "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+      "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=1920&q=80",
+      "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80"
+    ],
+    "primaryCTA": "Report Persecution",
+    "subheading": "Every day, innocent Christians face severe persecution. Your support provides vital legal aid, financial relief, and a voice to the voiceless.",
+    "imageOverlay": 50,
+    "secondaryCTA": "Call Now",
+    "sliderInterval": 5000,
+    "secondaryCTAHref": "tel:18001234461"
+  },
+  "pages": [
+    {
+      "id": "page-home",
+      "slug": "",
+      "title": "Home",
+      "isHome": true,
+      "sections": [
+        {
+          "id": "why-we-exist-home",
+          "type": "features",
+          "items": [
+            {
+              "icon": "🛡️",
+              "title": "Documenting Injustice",
+              "description": "We meticulously record incidents of persecution, building a verifiable database to expose violations and demand accountability."
+            },
+            {
+              "icon": "⚖️",
+              "title": "Providing Legal Aid",
+              "description": "Our network of lawyers offers crucial legal assistance to victims, helping them navigate complex legal systems and seek justice."
+            },
+            {
+              "icon": "🤲",
+              "title": "Offering Compassionate Support",
+              "description": "Beyond legalities, we provide financial aid, medical assistance, and trauma counseling to those who have lost everything."
+            }
+          ],
+          "title": "Why Persecution Relief Exists",
+          "layout": "grid-3"
+        },
+        {
+          "id": "our-work-home",
+          "type": "services",
+          "items": [
+            {
+              "icon": "📞",
+              "image": "https://images.unsplash.com/photo-1542435503-956c469947f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwxNXx8Y2FsbCUyMGNlbnRlcnxlbnwwfHx8fDE3MjE4MjAwMzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "24/7 Helpline Support",
+              "description": "Our dedicated multi-lingual helpline provides immediate assistance, crisis intervention, and guidance to those facing persecution. We are always here to listen and respond."
+            },
+            {
+              "icon": "📰",
+              "image": "https://images.unsplash.com/photo-1504711432028-3088ad17fcd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwyNnx8cHJlc3MlMjBjb25mZXJlbmNlfGVufDB8fHx8MTcyMTgyMDA1N3ww&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Reporting & Advocacy",
+              "description": "We publish comprehensive reports and actively advocate for religious freedom with national and international bodies. Our voice champions the rights of the persecuted."
+            },
+            {
+              "icon": "📚",
+              "image": "https://images.unsplash.com/photo-1582213782176-ebf7902ba694?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwxOHx8bGF3fGVufDB8fHx8MTcyMTgyMDExNXww&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Legal Intervention",
+              "description": "From filing FIRs to representing cases in court, our legal team fights for justice, challenging wrongful arrests and property destructions. We stand by our brothers and sisters."
+            },
+            {
+              "icon": "💵",
+              "image": "https://images.unsplash.com/photo-1532629396-dcec2f04e46d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwyMnx8Y2hhcml0eSUyMGdpdmV1cHMlMjBvZmZlcmVkJTIwZm9vZHxlbnwwfHx8fDE3MjE4MjAxNTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Financial & Material Aid",
+              "description": "We provide emergency funds, food, shelter, and medical assistance to families displaced or harmed by persecution. Every contribution makes a tangible difference."
+            },
+            {
+              "icon": "🙏",
+              "image": "https://images.unsplash.com/photo-1589182390448-732e4d9c0250?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwzfHxwcmluZyUyMHByYXllcnxlbnwwfHx8fDE3MjE4MjAwODJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Prayer Network Activation",
+              "description": "We mobilize a global prayer network to intercede for the persecuted, believing in the power of collective prayer for strength and divine intervention."
+            },
+            {
+              "icon": "🎓",
+              "image": "https://images.unsplash.com/photo-1534030635445-5df04d607f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwzMXx8ZWR1Y2F0aW9uJTIwaW5kaWF8ZW58MHx8fHwxNzIxODIwMDA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Awareness & Education",
+              "description": "Through seminars, publications, and social media, we raise awareness about the plight of persecuted Christians, fostering understanding and empathy worldwide. Education is key to change."
+            }
+          ],
+          "title": "Our Impactful Outreach",
+          "layout": "grid-3"
+        },
+        {
+          "id": "voices-of-hope-home",
+          "type": "testimonials",
+          "items": [
+            {
+              "name": "Pastor Samuel K.",
+              "quote": "When our church was attacked, Persecution Relief was the first to respond. They connected us with legal counsel and brought food for our families. Their quick action restored our faith in humanity.",
+              "title": "Community Leader, Odisha",
+              "rating": 5
+            },
+            {
+              "name": "Maria Devi",
+              "quote": "My husband was wrongfully detained. Persecution Relief fought tirelessly for his release, providing our family with financial support during the darkest time. We are forever grateful for their advocacy.",
+              "title": "Wife of Persecuted Christian, Uttar Pradesh",
+              "rating": 5
+            },
+            {
+              "name": "Brother Elijah M.",
+              "quote": "The team at Persecution Relief not only documented our incident but also ensured it reached international organizations. Their dedication to justice is inspiring and provides immense encouragement.",
+              "title": "Persecution Survivor, Karnataka",
+              "rating": 5
+            }
+          ],
+          "title": "Voices of Hope and Resilience",
+          "layout": "cards"
+        },
+        {
+          "id": "cta-support-us-home",
+          "body": "Join Persecution Relief in protecting religious freedom and providing vital aid. Every donation, every prayer, every shared story makes a profound difference.",
+          "type": "cta",
+          "title": "Your support can change lives.",
+          "primaryCTA": {
+            "href": "/financially",
+            "text": "Donate Securely"
+          },
+          "secondaryCTA": {
+            "href": "/how-to-help",
+            "text": "Learn How to Help"
+          }
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-about-us",
+      "slug": "about-us",
+      "title": "About Us",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Who We Are",
+          "settings": {
+            "customHtml": "<section id=\"whoweare\" style=\"padding:80px 24px;background:#f5f5f5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Who We Are</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:16px\">Persecution Relief is a registered nonprofit organization dedicated to reporting, documenting, and responding to religious persecution against Christians in India. Founded on the principle that every believer has the right to practice their faith without fear, we operate a 24/7 toll-free helpline (1800-1234-461) and coordinate rapid response teams across the country.</p>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">We work with local churches, legal professionals, medical teams, and government agencies to provide comprehensive support to victims and their families.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section id=\"whoweare\" style=\"padding:80px 24px;background:#f5f5f5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Who We Are</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:16px\">Persecution Relief is a registered nonprofit organization dedicated to reporting, documenting, and responding to religious persecution against Christians in India. Founded on the principle that every believer has the right to practice their faith without fear, we operate a 24/7 toll-free helpline (1800-1234-461) and coordinate rapid response teams across the country.</p>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">We work with local churches, legal professionals, medical teams, and government agencies to provide comprehensive support to victims and their families.</p>\n  </div>\n</section>"
+        },
+        {
+          "type": "about",
+          "title": "Our Founder",
+          "settings": {
+            "customHtml": "<section id=\"founder\" style=\"padding:80px 24px;background:#fff\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Founder</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:16px\">Persecution Relief was founded by a passionate advocate for religious freedom who witnessed firsthand the suffering of persecuted believers in India. Driven by faith and a commitment to justice, the organization was established to be a voice for the voiceless and a shield for the vulnerable.</p>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Under visionary leadership, Persecution Relief has grown from a small prayer group into a nationwide network of volunteers, lawyers, and advocates serving thousands of persecuted Christians every year.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section id=\"founder\" style=\"padding:80px 24px;background:#fff\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Founder</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:16px\">Persecution Relief was founded by a passionate advocate for religious freedom who witnessed firsthand the suffering of persecuted believers in India. Driven by faith and a commitment to justice, the organization was established to be a voice for the voiceless and a shield for the vulnerable.</p>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Under visionary leadership, Persecution Relief has grown from a small prayer group into a nationwide network of volunteers, lawyers, and advocates serving thousands of persecuted Christians every year.</p>\n  </div>\n</section>"
+        },
+        {
+          "type": "about",
+          "title": "Our Goal",
+          "settings": {
+            "customHtml": "<section id=\"goals\" style=\"padding:80px 24px;background:#f5f5f5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Goal</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">To create a nation where every individual can freely worship and practice their Christian faith without fear of violence, intimidation, social boycott, or legal harassment. We envision an India where religious liberty is not just a constitutional promise but a lived reality for every believer.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section id=\"goals\" style=\"padding:80px 24px;background:#f5f5f5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Goal</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">To create a nation where every individual can freely worship and practice their Christian faith without fear of violence, intimidation, social boycott, or legal harassment. We envision an India where religious liberty is not just a constitutional promise but a lived reality for every believer.</p>\n  </div>\n</section>"
+        },
+        {
+          "type": "about",
+          "title": "Our Mission",
+          "settings": {
+            "customHtml": "<section id=\"mission\" style=\"padding:80px 24px;background:#fff\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Mission</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">To document, report, and respond to Christian persecution in India through four pillars of service: Prayer, Financial Aid, Political Advocacy, and Judicial Support. We stand with the persecuted church, providing immediate relief and long-term rehabilitation to victims and their families.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section id=\"mission\" style=\"padding:80px 24px;background:#fff\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Mission</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">To document, report, and respond to Christian persecution in India through four pillars of service: Prayer, Financial Aid, Political Advocacy, and Judicial Support. We stand with the persecuted church, providing immediate relief and long-term rehabilitation to victims and their families.</p>\n  </div>\n</section>"
+        },
+        {
+          "type": "about",
+          "title": "Our Motto",
+          "settings": {
+            "customHtml": "<section id=\"motto\" style=\"padding:80px 24px;background:#f5f5f5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Motto</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1.25rem;line-height:1.8;font-weight:600;font-style:italic\">\"Serving Persecuted, Loving Persecutors\"</p>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-top:16px\">This motto encapsulates our belief that the Christian response to persecution must be rooted in love — love for those who suffer, and even love for those who cause the suffering. We seek justice while extending grace.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section id=\"motto\" style=\"padding:80px 24px;background:#f5f5f5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Motto</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1.25rem;line-height:1.8;font-weight:600;font-style:italic\">\"Serving Persecuted, Loving Persecutors\"</p>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-top:16px\">This motto encapsulates our belief that the Christian response to persecution must be rooted in love — love for those who suffer, and even love for those who cause the suffering. We seek justice while extending grace.</p>\n  </div>\n</section>"
+        },
+        {
+          "type": "about",
+          "title": "Our Vision",
+          "settings": {
+            "customHtml": "<section id=\"vision\" style=\"padding:80px 24px;background:#fff\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Vision</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">To be the leading voice for persecuted Christians in India, building a comprehensive network of prayer, advocacy, legal aid, and community support that ensures no believer faces persecution alone. We envision a movement that transforms communities through compassion, justice, and the power of united prayer.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section id=\"vision\" style=\"padding:80px 24px;background:#fff\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Vision</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">To be the leading voice for persecuted Christians in India, building a comprehensive network of prayer, advocacy, legal aid, and community support that ensures no believer faces persecution alone. We envision a movement that transforms communities through compassion, justice, and the power of united prayer.</p>\n  </div>\n</section>"
+        },
+        {
+          "type": "about",
+          "title": "Our Statement of Faith",
+          "settings": {
+            "customHtml": "<section id=\"faith\" style=\"padding:80px 24px;background:#f5f5f5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Statement of Faith</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:16px\">We believe in one God, eternally existing in three persons: Father, Son, and Holy Spirit. We believe in the divine inspiration and authority of the Holy Scriptures. We believe in the deity of our Lord Jesus Christ, His virgin birth, His sinless life, His miracles, His atoning death, His bodily resurrection, and His personal return in power and glory.</p>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">We believe that salvation is by grace through faith in Jesus Christ alone. We believe in the present ministry of the Holy Spirit by whose indwelling the Christian is enabled to live a godly life. We believe in the spiritual unity of believers in our Lord Jesus Christ.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section id=\"faith\" style=\"padding:80px 24px;background:#f5f5f5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"color:#2E7D32;font-size:1.75rem;font-weight:800;margin-bottom:8px\">Our Statement of Faith</h2>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:16px\">We believe in one God, eternally existing in three persons: Father, Son, and Holy Spirit. We believe in the divine inspiration and authority of the Holy Scriptures. We believe in the deity of our Lord Jesus Christ, His virgin birth, His sinless life, His miracles, His atoning death, His bodily resurrection, and His personal return in power and glory.</p>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">We believe that salvation is by grace through faith in Jesus Christ alone. We believe in the present ministry of the Holy Spirit by whose indwelling the Christian is enabled to live a godly life. We believe in the spiritual unity of believers in our Lord Jesus Christ.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-our-work",
+      "slug": "our-work",
+      "title": "Our Work",
+      "isHome": false,
+      "sections": [
+        {
+          "id": "our-work-intro",
+          "body": "At Persecution Relief, our commitment to the persecuted Christian community in India manifests through a multi-faceted approach. We don't just react to incidents; we proactively work to prevent, protect, and empower. Our model integrates reporting, relief, legal aid, advocacy, and spiritual support to provide holistic care for those facing the brunt of religious intolerance.",
+          "type": "content",
+          "title": "Comprehensive Support for Persecuted Christians"
+        },
+        {
+          "id": "our-programs",
+          "type": "services",
+          "items": [
+            {
+              "icon": "☎️",
+              "image": "https://images.unsplash.com/photo-1556740714-a83d47ad0c42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyM3x8MjQlMkY3JTIwY2FsbCUyMGNlbnRlcnxlbnwwfHx8fDE3MjE4MjEyNTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "24/7 National Emergency Helpline",
+              "description": "Our toll-free helpline operates around the clock, providing immediate response to distress calls from victims nationwide. This is often the first point of contact for urgent needs, providing instant relief and guidance."
+            },
+            {
+              "icon": "📋",
+              "image": "https://images.unsplash.com/photo-1507925921958-81a0fa42f6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8ZG9jdW1lbnRhdGlvbiUyMHJlcG9ydGlua3xlbnwwfHx8fDE3MjE4MjEyNTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Incident Documentation & Reporting",
+              "description": "We meticulously document every reported incident, gathering evidence, testimonies, and impact assessments. These detailed reports form the basis for our advocacy and provide crucial data for understanding persecution trends."
+            },
+            {
+              "icon": "🧑‍⚖️",
+              "image": "https://images.unsplash.com/photo-1590740924403-12cc80e224e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3MHx8bGF3JTIwY291cnRyb29tfGVufDB8fHx8MTcyMTgyMTI2MXww&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Legal Assistance & Intervention",
+              "description": "Through a network of dedicated lawyers, we offer pro-bono legal counsel, file First Information Reports (FIRs), represent victims in court, and challenge unjust laws. We fight for their fundamental rights."
+            },
+            {
+              "icon": "💸",
+              "image": "https://images.unsplash.com/photo-1510925757911-37012678508f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8Y2hhcml0eSUyMGZvb2QlMjBhZHVsZXRzJTIwaW5kaWF8ZW5wwfHx8fDE3MjE4MjEyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Emergency Financial & Material Aid",
+              "description": "For those displaced, injured, or with destroyed property, we provide emergency relief including food, shelter assistance, medical aid, and trauma counseling. This essential aid helps them rebuild their lives."
+            },
+            {
+              "icon": "🗣️",
+              "image": "https://images.unsplash.com/photo-1549923746-c56b6a48a5c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2fHwucG9saXRpY2lhbnN8ZW5wwfHx8fDE3MjE4MjEyNTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "National & International Advocacy",
+              "description": "We engage with government bodies, human rights commissions, diplomatic missions, and international organizations to raise awareness, influence policy, and seek accountability for persecutors. Our voices are amplified globally."
+            },
+            {
+              "icon": "📻",
+              "image": "https://images.unsplash.com/photo-1498075773041-e1740be65620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMHx8aW5kaWElMjBldmVudHMlMjBuZXdzfGVufDB8fHx8MTcyMTgyMTI1OXww&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Media & Public Awareness Campaigns",
+              "description": "Through our news portals, social media, and public awareness campaigns, we educate the public about the challenges faced by Christians in India. We aim to foster understanding, empathy, and support among a wider audience."
+            }
+          ],
+          "title": "Key Programs & Initiatives",
+          "layout": "grid-3"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-why-we-exist",
+      "slug": "why-we-exist",
+      "title": "Why We Exist",
+      "isHome": false,
+      "sections": [
+        {
+          "id": "intro-persecution",
+          "body": "India, a land celebrated for its diversity, is increasingly becoming a challenging place for its Christian minority. Persecution, once sporadic, has become systematic and alarmingly prevalent. From physical assaults and mob violence to false accusations and legal harassment, Christians face a spectrum of threats simply for their faith. This growing intolerance necessitates an urgent and robust response, which is why Persecution Relief was founded.",
+          "type": "content",
+          "title": "The Unfolding Reality of Persecution in India"
+        },
+        {
+          "id": "statistics-persecution",
+          "body": "Year after year, the number of reported incidents of Christian persecution in India continues to climb. Our data reflects a disturbing trend: attacks on churches, forced conversions, social boycotts, and legal battles are becoming commonplace. This environment of fear and intimidation not only violates constitutional rights to religious freedom but also shatters lives and communities. We exist to be a beacon of hope and a shield of protection in this escalating crisis. We believe that by shedding light on these dark realities, we can mobilize support and demand justice for those who are suffering.",
+          "type": "content",
+          "title": "Facing the Facts: The Alarming Rise in Hostility"
+        },
+        {
+          "id": "our-response-mision",
+          "body": "The relentless assault on religious freedom demands a concerted effort. Persecution Relief stands in the gap, transforming reports of suffering into actionable interventions. Our mission is to ensure that every persecuted Christian has access to help, advocacy, and a community of support. We refuse to let their cries go unheard or their struggles unseen.",
+          "type": "cta",
+          "title": "Responding to Crisis: Our Call to Action",
+          "primaryCTA": {
+            "href": "/news",
+            "text": "See Our Latest Reports"
+          },
+          "secondaryCTA": {
+            "href": "/join-us",
+            "text": "Join Our Mission"
+          }
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-news",
+      "slug": "news",
+      "title": "News & Reports",
+      "isHome": false,
+      "sections": [
+        {
+          "id": "news-intro",
+          "body": "Welcome to our News & Reports section, your source for the latest updates on Christian persecution in India and our ongoing efforts. Here you will find in-depth analysis, incident reports, success stories, and critical insights into the religious freedom landscape. Transparency and timely information are central to our advocacy.",
+          "type": "content",
+          "title": "Staying Informed: Latest on Persecution & Advocacy"
+        },
+        {
+          "id": "news-channels",
+          "type": "features",
+          "items": [
+            {
+              "cta": {
+                "href": "/news-english",
+                "text": "View English News"
+              },
+              "icon": "🇬🇧",
+              "title": "English News",
+              "description": "Read our comprehensive news reports and press releases in English, providing global insights into the challenges faced by Christians in India."
+            },
+            {
+              "cta": {
+                "href": "/news-hindi",
+                "text": "View Hindi News"
+              },
+              "icon": "🇮🇳",
+              "title": "Hindi News",
+              "description": "Access localized news and detailed reports in Hindi, reaching a broader audience within India and Hindi-speaking communities."
+            },
+            {
+              "cta": {
+                "href": "/news-malayalam",
+                "text": "View Malayalam News"
+              },
+              "icon": "🇮🇳",
+              "title": "Malayalam News",
+              "description": "Stay updated with reports and news specifically tailored for Malayalam-speaking regions, an important segment of the Christian population in India."
+            }
+          ],
+          "title": "News in Various Languages",
+          "layout": "grid-3"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-how-to-help",
+      "slug": "how-to-help",
+      "title": "How You Can Help",
+      "isHome": false,
+      "sections": [
+        {
+          "id": "help-intro",
+          "body": "The battle for religious freedom and justice requires a collective effort. Your support, in any form, empowers Persecution Relief to continue our vital work for persecuted Christians in India. There are many ways you can stand with us and make a tangible difference.",
+          "type": "content",
+          "title": "Be a Beacon of Hope: Join the Fight Against Persecution"
+        },
+        {
+          "id": "ways-to-help",
+          "type": "services",
+          "items": [
+            {
+              "cta": {
+                "href": "/prayerfully",
+                "text": "Pray With Us"
+              },
+              "icon": "🙏",
+              "image": "https://images.unsplash.com/photo-1549045582-7476839352e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1Nnx8cHJheWluZ3xlbnwwfHx8fDE3MjE4MjE1NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Prayerful Support",
+              "description": "Engage in intercessory prayer for the persecuted. Your prayers offer spiritual strength and tangible hope to those suffering. Join our global prayer network today and make a difference from wherever you are."
+            },
+            {
+              "cta": {
+                "href": "/financially",
+                "text": "Donate Now"
+              },
+              "icon": "💰",
+              "image": "https://images.unsplash.com/photo-1563207153-6119bc306c55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3OXx8Z2l2aW5nJTIwY2hhcml0eSUyMGluZGlhfGVufDB8fHx8MTcyMTgyMTU1OXww&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Financial Contribution",
+              "description": "Your financial gifts directly fund legal aid, emergency relief, medical care, and advocacy efforts. Every rupee brings relief and sustains our operations. Your generosity fuels our mission."
+            },
+            {
+              "cta": {
+                "href": "/politically",
+                "text": "Get Involved Politically"
+              },
+              "icon": "📢",
+              "image": "https://images.unsplash.com/photo-1579758778810-72ee783931be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8cG9saXRpY2lhbiUyMGFjdGl2aXNtfGVufDB8fHx8MTcyMTgyMTU3MXww&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Political Engagement",
+              "description": "Learn how to engage with policymakers and write to your representatives to advocate for religious freedom and human rights in India. Your voice in the political sphere is powerful."
+            },
+            {
+              "cta": {
+                "href": "/judicially",
+                "text": "Support Judicial Efforts"
+              },
+              "icon": "🏛️",
+              "image": "https://images.unsplash.com/photo-1555212626-d621b16c80c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1OHx8bGF3JTIwZmlybSUyMHRlYW18ZW5wwfHx8fDE3MjE4MjE1NjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Judicial Activism",
+              "description": "Support our legal team's efforts by volunteering or contributing to our legal aid fund. We challenge unjust laws and fight for justice in the courtroom."
+            },
+            {
+              "cta": {
+                "href": "/join-us",
+                "text": "Become a Volunteer"
+              },
+              "icon": "🫂",
+              "image": "https://images.unsplash.com/photo-1549060002-311400bfbf60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2Nnx8dm9sdW50ZWVyJTIwdGVhbXxlbnwwfHx8fDE3MjE4MjE1NjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Join Our Team",
+              "description": "Offer your skills as a volunteer, researcher, or field worker. We need passionate individuals to expand our reach and strengthen our mission on the ground."
+            },
+            {
+              "cta": {
+                "href": "https://twitter.com/persecutionrel",
+                "text": "Follow Us"
+              },
+              "icon": "📣",
+              "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyM3x8c3ByZWFkaW5nJTIwYXdhcmVuZXNzfGVufDB8fHx8MTcyMTgyMTU3MHww&ixlib=rb-4.0.3&q=80&w=1080",
+              "title": "Spread Awareness",
+              "description": "Share our reports, news, and calls to action on social media. Educate your community and amplify the voices of the persecuted. Awareness is the first step towards change."
+            }
+          ],
+          "title": "Make an Impact Today",
+          "layout": "grid-3"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-report-persecution",
+      "slug": "report-persecution",
+      "title": "Report Persecution",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Report Persecution",
+          "settings": {
+            "customHtml": "<section style=\"background:#1a1a2e;padding:80px 24px;text-align:center\">\n  <div style=\"max-width:700px;margin:0 auto\">\n    <h1 style=\"color:#fff;font-size:2rem;font-weight:800;margin-bottom:16px\">Report Persecution</h1>\n    <p style=\"color:rgba(255,255,255,0.7);font-size:1.1rem;margin-bottom:8px\">If you or someone you know is facing persecution for their Christian faith in India, report it immediately.</p>\n    <p style=\"color:#FFD54F;font-size:2rem;font-weight:900;letter-spacing:2px;margin-bottom:32px\">1800-1234-461</p>\n    <p style=\"color:rgba(255,255,255,0.6);font-size:0.95rem\">Available 24 hours a day, 7 days a week. All calls are confidential.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#1a1a2e;padding:80px 24px;text-align:center\">\n  <div style=\"max-width:700px;margin:0 auto\">\n    <h1 style=\"color:#fff;font-size:2rem;font-weight:800;margin-bottom:16px\">Report Persecution</h1>\n    <p style=\"color:rgba(255,255,255,0.7);font-size:1.1rem;margin-bottom:8px\">If you or someone you know is facing persecution for their Christian faith in India, report it immediately.</p>\n    <p style=\"color:#FFD54F;font-size:2rem;font-weight:900;letter-spacing:2px;margin-bottom:32px\">1800-1234-461</p>\n    <p style=\"color:rgba(255,255,255,0.6);font-size:0.95rem\">Available 24 hours a day, 7 days a week. All calls are confidential.</p>\n  </div>\n</section>"
+        },
+        {
+          "type": "contact",
+          "title": "Submit a Report"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-contact",
+      "slug": "contact",
+      "title": "Contact Us",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Contact Persecution Relief",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto;text-align:center\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Contact Us</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin:0 auto 32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:32px\">Reach out to us for any inquiries, prayer requests, or to report incidents of persecution.</p>\n    <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;text-align:center\">\n      <div style=\"background:#fff;padding:32px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Phone</h3>\n        <p style=\"color:#2E7D32;font-weight:600\">1800-1234-461</p>\n        <p style=\"color:#666;font-size:0.85rem\">Toll Free, 24/7</p>\n      </div>\n      <div style=\"background:#fff;padding:32px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Email</h3>\n        <p style=\"color:#1565C0;font-weight:600\">persecutionrelief@gmail.com</p>\n      </div>\n      <div style=\"background:#fff;padding:32px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Location</h3>\n        <p style=\"color:#666\">Mumbai, Maharashtra, India</p>\n      </div>\n    </div>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto;text-align:center\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Contact Us</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin:0 auto 32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:32px\">Reach out to us for any inquiries, prayer requests, or to report incidents of persecution.</p>\n    <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;text-align:center\">\n      <div style=\"background:#fff;padding:32px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Phone</h3>\n        <p style=\"color:#2E7D32;font-weight:600\">1800-1234-461</p>\n        <p style=\"color:#666;font-size:0.85rem\">Toll Free, 24/7</p>\n      </div>\n      <div style=\"background:#fff;padding:32px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Email</h3>\n        <p style=\"color:#1565C0;font-weight:600\">persecutionrelief@gmail.com</p>\n      </div>\n      <div style=\"background:#fff;padding:32px;border-radius:12px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Location</h3>\n        <p style=\"color:#666\">Mumbai, Maharashtra, India</p>\n      </div>\n    </div>\n  </div>\n</section>"
+        },
+        {
+          "type": "contact",
+          "title": "Send Us a Message"
+        }
+      ],
+      "isVisible": true
+    }
+  ],
+  "footer": {
+    "style": "modern",
+    "tagline": "Persecution Relief is a nonprofit organization dedicated to reporting, documenting, and responding to Christian persecut...",
+    "bottomBar": {
+      "content": "CALL TOLL FREE: 1800-1234-461 | © Persecution Relief. All rights reserved. | Privacy Policy",
+      "enabled": true,
+      "textColor": "#FFFFFF",
+      "backgroundColor": "#000000"
+    },
+    "copyright": "© 2026 Persecution Relief. All rights reserved.",
+    "textColor": "#FFFFFF",
+    "linkGroups": [
+      {
+        "links": [
+          {
+            "href": "/about-us",
+            "label": "About Us"
+          },
+          {
+            "href": "/persecution-promised",
+            "label": "Persecution Promised"
+          },
+          {
+            "href": "/persecution-of-jesus",
+            "label": "Persecution of Jesus"
+          },
+          {
+            "href": "/persecution-birth",
+            "label": "Persecution Birth"
+          },
+          {
+            "href": "/persecution-types",
+            "label": "Persecution Types"
+          },
+          {
+            "href": "/persecution-reaction",
+            "label": "Persecution Reaction"
+          },
+          {
+            "href": "/persecution-perspective",
+            "label": "Persecution Perspective"
+          },
+          {
+            "href": "/persecution-fear",
+            "label": "Persecution Fear"
+          },
+          {
+            "href": "/persecution-of-paul",
+            "label": "Persecution of Paul"
+          },
+          {
+            "href": "/persecution-india",
+            "label": "Persecution India"
+          },
+          {
+            "href": "/persecution-deaths-of-disciples",
+            "label": "Deaths of Disciples"
+          },
+          {
+            "href": "/how-to-pray-for-persecuted-church",
+            "label": "How to Pray for the Persecuted Church"
+          },
+          {
+            "href": "/bless-the-persecutors",
+            "label": "Bless the Persecutors in Jesus Name"
+          },
+          {
+            "href": "/i-am-jesus-whom-you-are-persecuting",
+            "label": "I Am Jesus, Whom You Are Persecuting"
+          },
+          {
+            "href": "/news-english",
+            "label": "News – English"
+          },
+          {
+            "href": "/news-hindi",
+            "label": "News – Hindi"
+          },
+          {
+            "href": "/news-malayalam",
+            "label": "News – Malayalam"
+          },
+          {
+            "href": "/prayerfully",
+            "label": "Prayerfully"
+          },
+          {
+            "href": "/financially",
+            "label": "Financially"
+          },
+          {
+            "href": "/politically",
+            "label": "Politically"
+          },
+          {
+            "href": "/judicially",
+            "label": "Judicially"
+          },
+          {
+            "href": "/join-us",
+            "label": "Join Us"
+          },
+          {
+            "href": "/report-persecution",
+            "label": "Report Persecution"
+          },
+          {
+            "href": "/contact",
+            "label": "Contact Us"
+          }
+        ],
+        "title": "Pages"
+      },
+      {
+        "links": [
+          {
+            "href": "/persecution-types",
+            "label": "Persecution Types"
+          },
+          {
+            "href": "/persecution-reaction",
+            "label": "Persecution Reaction"
+          },
+          {
+            "href": "/persecution-perspective",
+            "label": "Persecution Perspective"
+          },
+          {
+            "href": "/persecution-fear",
+            "label": "Persecution Fear"
+          },
+          {
+            "href": "/persecution-of-paul",
+            "label": "Persecution of Paul"
+          },
+          {
+            "href": "/persecution-india",
+            "label": "Persecution India"
+          },
+          {
+            "href": "/persecution-deaths-of-disciples",
+            "label": "Deaths of Disciples"
+          },
+          {
+            "href": "/how-to-pray-for-persecuted-church",
+            "label": "How to Pray for the Persecuted Church"
+          },
+          {
+            "href": "/bless-the-persecutors",
+            "label": "Bless the Persecutors in Jesus Name"
+          },
+          {
+            "href": "/i-am-jesus-whom-you-are-persecuting",
+            "label": "I Am Jesus, Whom You Are Persecuting"
+          },
+          {
+            "href": "/news-english",
+            "label": "News – English"
+          },
+          {
+            "href": "/news-hindi",
+            "label": "News – Hindi"
+          },
+          {
+            "href": "/news-malayalam",
+            "label": "News – Malayalam"
+          },
+          {
+            "href": "/prayerfully",
+            "label": "Prayerfully"
+          },
+          {
+            "href": "/financially",
+            "label": "Financially"
+          },
+          {
+            "href": "/politically",
+            "label": "Politically"
+          },
+          {
+            "href": "/judicially",
+            "label": "Judicially"
+          },
+          {
+            "href": "/join-us",
+            "label": "Join Us"
+          },
+          {
+            "href": "/report-persecution",
+            "label": "Report Persecution"
+          }
+        ],
+        "title": "Resources"
+      }
+    ],
+    "newsletter": {
+      "title": "Stay Informed & Act Now",
+      "enabled": true,
+      "buttonText": "Subscribe",
+      "placeholder": "Enter your email for updates"
+    },
+    "companyName": "Persecution Relief",
+    "contactInfo": {
+      "email": "persecutionrelief@gmail.com",
+      "phone": "1800-1234-461",
+      "address": "Mumbai, Maharashtra, India",
+      "phoneLink": "tel:18001234461"
+    },
+    "description": "Persecution Relief is an NGO dedicated to reporting, documenting, and responding to Christian persecution across India through aid, advocacy & prayer. We bring hope.",
+    "socialLinks": [
+      {
+        "url": "https://facebook.com/persecutionrelief",
+        "platform": "facebook"
+      },
+      {
+        "url": "https://twitter.com/persaborelief",
+        "platform": "twitter"
+      },
+      {
+        "url": "https://youtube.com/persecutionrelief",
+        "platform": "youtube"
+      }
+    ],
+    "businessHours": {
+      "weekend": "24/7 Helpline: Always Available",
+      "weekdays": "Mon - Fri: 9:00 AM - 5:00 PM (Office Hours)"
+    },
+    "backgroundColor": "#333333",
+    "showSocialLinks": true
+  },
+  "header": {
+    "topBar": {
+      "email": "persecutionrelief@gmail.com",
+      "phone": "1800-1234-461",
+      "height": "compact",
+      "enabled": true,
+      "textColor": "#FFFFFF",
+      "dismissible": false,
+      "leftContent": "phone_email",
+      "socialLinks": [
+        {
+          "url": "https://facebook.com/persecutionrelief",
+          "platform": "facebook"
+        },
+        {
+          "url": "https://twitter.com/persaborelief",
+          "platform": "twitter"
+        },
+        {
+          "url": "https://youtube.com/persecutionrelief",
+          "platform": "youtube"
+        },
+        {
+          "url": "https://instagram.com/persecutionrelief",
+          "platform": "instagram"
+        }
+      ],
+      "borderBottom": false,
+      "rightContent": "social",
+      "showOnMobile": true,
+      "backgroundColor": "#2E7D32"
+    },
+    "logoText": "Persecution Relief",
+    "navItems": [
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/about-us",
+        "label": "About Us"
+      },
+      {
+        "href": "/persecution-promised",
+        "label": "Persecution"
+      },
+      {
+        "href": "/news-english",
+        "label": "News"
+      },
+      {
+        "href": "/contact",
+        "label": "Contact Us"
+      }
+    ],
+    "settings": {
+      "layout": "centered",
+      "shadow": "sm",
+      "fontSize": "sm",
+      "isSticky": true,
+      "showLogo": true,
+      "alignment": "center",
+      "linkStyle": "uppercase",
+      "textColor": "#333333",
+      "background": {
+        "type": "solid",
+        "color": "#FFFFFF"
+      },
+      "hoverColor": "#2E7D32",
+      "linkWeight": "bold",
+      "borderColor": "#E0E0E0",
+      "stickyStyle": "always",
+      "borderBottom": true,
+      "submenuStyle": {
+        "preset": "clean",
+        "shadow": "lg",
+        "animation": "fade",
+        "showIcons": true,
+        "background": "solid",
+        "borderRadius": "md",
+        "showDescriptions": true
+      },
+      "showCtaButton": false,
+      "scrollTransition": true
+    },
+    "ctaButton": {
+      "href": "/contact",
+      "text": "Report Persecution"
+    },
+    "megaMenuItems": [
+      {
+        "id": "home",
+        "href": "/",
+        "icon": "Home",
+        "type": "simple-dropdown",
+        "label": "Home",
+        "children": [
+          {
+            "href": "/prayerfully",
+            "label": "Prayerfully"
+          },
+          {
+            "href": "/financially",
+            "label": "Financially"
+          },
+          {
+            "href": "/politically",
+            "label": "Politically"
+          },
+          {
+            "href": "/judicially",
+            "label": "Judicially"
+          }
+        ]
+      },
+      {
+        "id": "about-us",
+        "href": "/about-us",
+        "icon": "Users",
+        "type": "simple-dropdown",
+        "label": "About Us",
+        "children": [
+          {
+            "href": "/about-us#whoweare",
+            "label": "Who We Are"
+          },
+          {
+            "href": "/about-us#founder",
+            "label": "Our Founder"
+          },
+          {
+            "href": "/about-us#goals",
+            "label": "Our Goal"
+          },
+          {
+            "href": "/about-us#mission",
+            "label": "Our Mission"
+          },
+          {
+            "href": "/about-us#motto",
+            "label": "Our Motto"
+          },
+          {
+            "href": "/about-us#vision",
+            "label": "Our Vision"
+          },
+          {
+            "href": "/about-us#faith",
+            "label": "Our Statement of Faith"
+          }
+        ]
+      },
+      {
+        "id": "persecution",
+        "href": "/persecution-promised",
+        "icon": "ShieldAlert",
+        "type": "simple-dropdown",
+        "label": "Persecution",
+        "children": [
+          {
+            "href": "/persecution-promised",
+            "label": "Persecution Promised"
+          },
+          {
+            "href": "/persecution-of-jesus",
+            "label": "Persecution of Jesus"
+          },
+          {
+            "href": "/persecution-birth",
+            "label": "Persecution Birth"
+          },
+          {
+            "href": "/persecution-types",
+            "label": "Persecution Types"
+          },
+          {
+            "href": "/persecution-reaction",
+            "label": "Persecution Reaction"
+          },
+          {
+            "href": "/persecution-perspective",
+            "label": "Persecution Perspective"
+          },
+          {
+            "href": "/persecution-fear",
+            "label": "Persecution Fear"
+          },
+          {
+            "href": "/persecution-of-paul",
+            "label": "Persecution of Paul"
+          },
+          {
+            "href": "/persecution-india",
+            "label": "Persecution India"
+          },
+          {
+            "href": "/persecution-deaths-of-disciples",
+            "label": "Deaths of Disciples"
+          },
+          {
+            "href": "/how-to-pray-for-persecuted-church",
+            "label": "How to Pray for the Persecuted Church"
+          },
+          {
+            "href": "/bless-the-persecutors",
+            "label": "Bless the Persecutors in Jesus Name"
+          },
+          {
+            "href": "/i-am-jesus-whom-you-are-persecuting",
+            "label": "I Am Jesus, Whom You Are Persecuting"
+          }
+        ]
+      },
+      {
+        "id": "mega-news-1773467820791",
+        "href": "/newsletter",
+        "type": "simple-dropdown",
+        "label": "Newsletter",
+        "children": [
+          {
+            "href": "/newsletter/en",
+            "icon": "",
+            "label": "English",
+            "description": "English"
+          },
+          {
+            "href": "/newsletter/ml",
+            "icon": "",
+            "label": "മലയാളം",
+            "description": "Malayalam"
+          },
+          {
+            "href": "/newsletter/hi",
+            "icon": "",
+            "label": "हिन्दी",
+            "description": "Hindi"
+          }
+        ]
+      },
+      {
+        "id": "contact-us",
+        "href": "/contact",
+        "icon": "Mail",
+        "type": "simple-dropdown",
+        "label": "Contact Us",
+        "children": [
+          {
+            "href": "/join-us",
+            "label": "Join Us"
+          },
+          {
+            "href": "/report-persecution",
+            "label": "Report Persecution"
+          }
+        ]
+      }
+    ],
+    "__mergedNavItems": [
+      {
+        "id": "home",
+        "href": "/",
+        "icon": "Home",
+        "type": "simple-dropdown",
+        "label": "Home",
+        "children": [
+          {
+            "href": "/prayerfully",
+            "label": "Prayerfully"
+          },
+          {
+            "href": "/financially",
+            "label": "Financially"
+          },
+          {
+            "href": "/politically",
+            "label": "Politically"
+          },
+          {
+            "href": "/judicially",
+            "label": "Judicially"
+          }
+        ]
+      },
+      {
+        "id": "about-us",
+        "href": "/about-us",
+        "icon": "Users",
+        "type": "simple-dropdown",
+        "label": "About Us",
+        "children": [
+          {
+            "href": "/about-us#whoweare",
+            "label": "Who We Are"
+          },
+          {
+            "href": "/about-us#founder",
+            "label": "Our Founder"
+          },
+          {
+            "href": "/about-us#goals",
+            "label": "Our Goal"
+          },
+          {
+            "href": "/about-us#mission",
+            "label": "Our Mission"
+          },
+          {
+            "href": "/about-us#motto",
+            "label": "Our Motto"
+          },
+          {
+            "href": "/about-us#vision",
+            "label": "Our Vision"
+          },
+          {
+            "href": "/about-us#faith",
+            "label": "Our Statement of Faith"
+          }
+        ]
+      },
+      {
+        "id": "persecution",
+        "href": "/persecution-promised",
+        "icon": "ShieldAlert",
+        "type": "simple-dropdown",
+        "label": "Persecution",
+        "children": [
+          {
+            "href": "/persecution-promised",
+            "label": "Persecution Promised"
+          },
+          {
+            "href": "/persecution-of-jesus",
+            "label": "Persecution of Jesus"
+          },
+          {
+            "href": "/persecution-birth",
+            "label": "Persecution Birth"
+          },
+          {
+            "href": "/persecution-types",
+            "label": "Persecution Types"
+          },
+          {
+            "href": "/persecution-reaction",
+            "label": "Persecution Reaction"
+          },
+          {
+            "href": "/persecution-perspective",
+            "label": "Persecution Perspective"
+          },
+          {
+            "href": "/persecution-fear",
+            "label": "Persecution Fear"
+          },
+          {
+            "href": "/persecution-of-paul",
+            "label": "Persecution of Paul"
+          },
+          {
+            "href": "/persecution-india",
+            "label": "Persecution India"
+          },
+          {
+            "href": "/persecution-deaths-of-disciples",
+            "label": "Deaths of Disciples"
+          },
+          {
+            "href": "/how-to-pray-for-persecuted-church",
+            "label": "How to Pray for the Persecuted Church"
+          },
+          {
+            "href": "/bless-the-persecutors",
+            "label": "Bless the Persecutors in Jesus Name"
+          },
+          {
+            "href": "/i-am-jesus-whom-you-are-persecuting",
+            "label": "I Am Jesus, Whom You Are Persecuting"
+          }
+        ]
+      },
+      {
+        "id": "news",
+        "href": "/news-english",
+        "icon": "Newspaper",
+        "type": "simple-dropdown",
+        "label": "News",
+        "children": [
+          {
+            "href": "/news-english",
+            "label": "Persecution Relief News – English"
+          },
+          {
+            "href": "/news-hindi",
+            "label": "Persecution Relief News – Hindi"
+          },
+          {
+            "href": "/news-malayalam",
+            "label": "Persecution Relief News – Malayalam"
+          }
+        ]
+      },
+      {
+        "id": "contact-us",
+        "href": "/contact",
+        "icon": "Mail",
+        "type": "simple-dropdown",
+        "label": "Contact Us",
+        "children": [
+          {
+            "href": "/join-us",
+            "label": "Join Us"
+          },
+          {
+            "href": "/report-persecution",
+            "label": "Report Persecution"
+          }
+        ]
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "title": "Report Christian Persecution 24x7 Toll Free",
+      "content": "1800-1234-461",
+      "settings": {
+        "customHtml": "<section style=\"position:relative;min-height:70vh;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#1a1a2e\">\n  <div style=\"position:absolute;inset:0;display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(3,1fr);gap:2px;opacity:0.3\">\n    <div style=\"background:url('https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1497375638960-ca368c7231e4?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1504159506876-f8338247a14a?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1518398046578-8cca57782e17?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1547496502-affa22d38842?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1560252829-804f1aedf1be?w=400') center/cover\"></div>\n  </div>\n  <div style=\"position:absolute;inset:0;background:linear-gradient(180deg,rgba(26,26,46,0.7) 0%,rgba(26,26,46,0.85) 100%)\"></div>\n  <div style=\"position:relative;z-index:10;text-align:center;max-width:700px;padding:40px 24px\">\n    <div style=\"width:100px;height:100px;margin:0 auto 24px;border-radius:50%;background:#2E7D32;display:flex;align-items:center;justify-content:center\">\n      <svg width=\"48\" height=\"48\" fill=\"none\" stroke=\"white\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><path d=\"M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5\"/></svg>\n    </div>\n    <h1 style=\"font-size:clamp(1.5rem,4vw,2.5rem);font-weight:800;color:#fff;margin-bottom:8px;font-family:sans-serif\">Report Christian Persecution</h1>\n    <p style=\"font-size:clamp(1rem,2.5vw,1.25rem);color:#ccc;margin-bottom:4px\">24x7 Toll Free</p>\n    <p style=\"font-size:clamp(1.75rem,5vw,3rem);font-weight:900;color:#FFD54F;margin-bottom:32px;letter-spacing:2px\">1800-1234-461</p>\n    <a href=\"/report-persecution\" style=\"display:inline-block;padding:16px 48px;background:#1565C0;color:#fff;font-weight:700;font-size:1.1rem;border-radius:8px;text-decoration:none;text-transform:uppercase;letter-spacing:1px;transition:background 0.3s\">Report Persecution</a>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"position:relative;min-height:70vh;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#1a1a2e\">\n  <div style=\"position:absolute;inset:0;display:grid;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(3,1fr);gap:2px;opacity:0.3\">\n    <div style=\"background:url('https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1497375638960-ca368c7231e4?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1504159506876-f8338247a14a?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1518398046578-8cca57782e17?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1547496502-affa22d38842?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=400') center/cover\"></div>\n    <div style=\"background:url('https://images.unsplash.com/photo-1560252829-804f1aedf1be?w=400') center/cover\"></div>\n  </div>\n  <div style=\"position:absolute;inset:0;background:linear-gradient(180deg,rgba(26,26,46,0.7) 0%,rgba(26,26,46,0.85) 100%)\"></div>\n  <div style=\"position:relative;z-index:10;text-align:center;max-width:700px;padding:40px 24px\">\n    <div style=\"width:100px;height:100px;margin:0 auto 24px;border-radius:50%;background:#2E7D32;display:flex;align-items:center;justify-content:center\">\n      <svg width=\"48\" height=\"48\" fill=\"none\" stroke=\"white\" stroke-width=\"2\" viewBox=\"0 0 24 24\"><path d=\"M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5\"/></svg>\n    </div>\n    <h1 style=\"font-size:clamp(1.5rem,4vw,2.5rem);font-weight:800;color:#fff;margin-bottom:8px;font-family:sans-serif\">Report Christian Persecution</h1>\n    <p style=\"font-size:clamp(1rem,2.5vw,1.25rem);color:#ccc;margin-bottom:4px\">24x7 Toll Free</p>\n    <p style=\"font-size:clamp(1.75rem,5vw,3rem);font-weight:900;color:#FFD54F;margin-bottom:32px;letter-spacing:2px\">1800-1234-461</p>\n    <a href=\"/report-persecution\" style=\"display:inline-block;padding:16px 48px;background:#1565C0;color:#fff;font-weight:700;font-size:1.1rem;border-radius:8px;text-decoration:none;text-transform:uppercase;letter-spacing:1px;transition:background 0.3s\">Report Persecution</a>\n  </div>\n</section>"
+    },
+    {
+      "type": "about",
+      "title": "About Us",
+      "content": "I AM JESUS WHO YOU ARE PERSECUTING",
+      "settings": {
+        "customHtml": "<section style=\"padding:80px 24px;background:#F5F5F5\">\n  <div style=\"max-width:1100px;margin:0 auto;text-align:center\">\n    <h2 style=\"font-size:clamp(1.75rem,4vw,2.5rem);font-weight:800;color:#333;margin-bottom:8px\">About Us</h2>\n    <p style=\"font-size:1rem;color:#E65100;font-weight:600;text-transform:uppercase;letter-spacing:2px;margin-bottom:48px\">I Am Jesus Who You Are Persecuting</p>\n    <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:32px\">\n      <div style=\"background:#fff;border-radius:16px;padding:40px 32px;box-shadow:0 4px 24px rgba(0,0,0,0.06);transition:transform 0.3s\">\n        <div style=\"width:64px;height:64px;margin:0 auto 20px;border-radius:50%;background:#E8F5E9;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"28\" height=\"28\" fill=\"#2E7D32\" viewBox=\"0 0 24 24\"><path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 22 12 18.27 5.82 22 7 14.14 2 9.27l6.91-1.01L12 2z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.25rem;font-weight:700;color:#333;margin-bottom:12px\">Our Motto</h3>\n        <p style=\"color:#666;line-height:1.7;font-size:0.95rem\">To be the voice of the voiceless and stand with those who face persecution for their faith, ensuring no cry goes unheard.</p>\n      </div>\n      <div style=\"background:#fff;border-radius:16px;padding:40px 32px;box-shadow:0 4px 24px rgba(0,0,0,0.06);transition:transform 0.3s\">\n        <div style=\"width:64px;height:64px;margin:0 auto 20px;border-radius:50%;background:#FFF3E0;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"28\" height=\"28\" fill=\"#E65100\" viewBox=\"0 0 24 24\"><path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.25rem;font-weight:700;color:#333;margin-bottom:12px\">Our Mission</h3>\n        <p style=\"color:#666;line-height:1.7;font-size:0.95rem\">To document, report, and respond to persecution through prayer, financial aid, legal support, and political advocacy.</p>\n      </div>\n      <div style=\"background:#fff;border-radius:16px;padding:40px 32px;box-shadow:0 4px 24px rgba(0,0,0,0.06);transition:transform 0.3s\">\n        <div style=\"width:64px;height:64px;margin:0 auto 20px;border-radius:50%;background:#E3F2FD;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"28\" height=\"28\" fill=\"#1565C0\" viewBox=\"0 0 24 24\"><path d=\"M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.25rem;font-weight:700;color:#333;margin-bottom:12px\">Our Goal</h3>\n        <p style=\"color:#666;line-height:1.7;font-size:0.95rem\">To create a world where every person can practice their faith freely without fear of violence, discrimination, or injustice.</p>\n      </div>\n    </div>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"padding:80px 24px;background:#F5F5F5\">\n  <div style=\"max-width:1100px;margin:0 auto;text-align:center\">\n    <h2 style=\"font-size:clamp(1.75rem,4vw,2.5rem);font-weight:800;color:#333;margin-bottom:8px\">About Us</h2>\n    <p style=\"font-size:1rem;color:#E65100;font-weight:600;text-transform:uppercase;letter-spacing:2px;margin-bottom:48px\">I Am Jesus Who You Are Persecuting</p>\n    <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:32px\">\n      <div style=\"background:#fff;border-radius:16px;padding:40px 32px;box-shadow:0 4px 24px rgba(0,0,0,0.06);transition:transform 0.3s\">\n        <div style=\"width:64px;height:64px;margin:0 auto 20px;border-radius:50%;background:#E8F5E9;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"28\" height=\"28\" fill=\"#2E7D32\" viewBox=\"0 0 24 24\"><path d=\"M12 2l3.09 6.26L22 9.27l-5 4.87L18.18 22 12 18.27 5.82 22 7 14.14 2 9.27l6.91-1.01L12 2z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.25rem;font-weight:700;color:#333;margin-bottom:12px\">Our Motto</h3>\n        <p style=\"color:#666;line-height:1.7;font-size:0.95rem\">To be the voice of the voiceless and stand with those who face persecution for their faith, ensuring no cry goes unheard.</p>\n      </div>\n      <div style=\"background:#fff;border-radius:16px;padding:40px 32px;box-shadow:0 4px 24px rgba(0,0,0,0.06);transition:transform 0.3s\">\n        <div style=\"width:64px;height:64px;margin:0 auto 20px;border-radius:50%;background:#FFF3E0;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"28\" height=\"28\" fill=\"#E65100\" viewBox=\"0 0 24 24\"><path d=\"M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.25rem;font-weight:700;color:#333;margin-bottom:12px\">Our Mission</h3>\n        <p style=\"color:#666;line-height:1.7;font-size:0.95rem\">To document, report, and respond to persecution through prayer, financial aid, legal support, and political advocacy.</p>\n      </div>\n      <div style=\"background:#fff;border-radius:16px;padding:40px 32px;box-shadow:0 4px 24px rgba(0,0,0,0.06);transition:transform 0.3s\">\n        <div style=\"width:64px;height:64px;margin:0 auto 20px;border-radius:50%;background:#E3F2FD;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"28\" height=\"28\" fill=\"#1565C0\" viewBox=\"0 0 24 24\"><path d=\"M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.25rem;font-weight:700;color:#333;margin-bottom:12px\">Our Goal</h3>\n        <p style=\"color:#666;line-height:1.7;font-size:0.95rem\">To create a world where every person can practice their faith freely without fear of violence, discrimination, or injustice.</p>\n      </div>\n    </div>\n  </div>\n</section>"
+    },
+    {
+      "type": "services",
+      "title": "We Serve",
+      "settings": {
+        "customHtml": "<section style=\"padding:80px 24px;background:#fff\">\n  <div style=\"max-width:900px;margin:0 auto;text-align:center\">\n    <h2 style=\"font-size:clamp(1.75rem,4vw,2.25rem);font-weight:800;color:#333;margin-bottom:48px\">We Serve</h2>\n    <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:32px\">\n      <div style=\"padding:32px 16px;border-radius:16px;background:#F5F5F5;transition:all 0.3s;cursor:pointer\">\n        <div style=\"width:56px;height:56px;margin:0 auto 16px;border-radius:50%;background:#2E7D32;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333\">Prayerfully</h3>\n      </div>\n      <div style=\"padding:32px 16px;border-radius:16px;background:#F5F5F5;transition:all 0.3s;cursor:pointer\">\n        <div style=\"width:56px;height:56px;margin:0 auto 16px;border-radius:50%;background:#E65100;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333\">Financially</h3>\n      </div>\n      <div style=\"padding:32px 16px;border-radius:16px;background:#F5F5F5;transition:all 0.3s;cursor:pointer\">\n        <div style=\"width:56px;height:56px;margin:0 auto 16px;border-radius:50%;background:#1565C0;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333\">Politically</h3>\n      </div>\n      <div style=\"padding:32px 16px;border-radius:16px;background:#F5F5F5;transition:all 0.3s;cursor:pointer\">\n        <div style=\"width:56px;height:56px;margin:0 auto 16px;border-radius:50%;background:#6A1B9A;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M4 1h16v2H4V1zm0 4h16v2H4V5zm10 6H4v2h10v-2zm6.5-1.5L19 8l-1.5 1.5L16 8l-1.5 1.5-1 1L16 13l1.5-1.5L19 13l1.5-1.5 1-1L20 9.5z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333\">Judicially</h3>\n      </div>\n    </div>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"padding:80px 24px;background:#fff\">\n  <div style=\"max-width:900px;margin:0 auto;text-align:center\">\n    <h2 style=\"font-size:clamp(1.75rem,4vw,2.25rem);font-weight:800;color:#333;margin-bottom:48px\">We Serve</h2>\n    <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:32px\">\n      <div style=\"padding:32px 16px;border-radius:16px;background:#F5F5F5;transition:all 0.3s;cursor:pointer\">\n        <div style=\"width:56px;height:56px;margin:0 auto 16px;border-radius:50%;background:#2E7D32;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333\">Prayerfully</h3>\n      </div>\n      <div style=\"padding:32px 16px;border-radius:16px;background:#F5F5F5;transition:all 0.3s;cursor:pointer\">\n        <div style=\"width:56px;height:56px;margin:0 auto 16px;border-radius:50%;background:#E65100;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333\">Financially</h3>\n      </div>\n      <div style=\"padding:32px 16px;border-radius:16px;background:#F5F5F5;transition:all 0.3s;cursor:pointer\">\n        <div style=\"width:56px;height:56px;margin:0 auto 16px;border-radius:50%;background:#1565C0;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333\">Politically</h3>\n      </div>\n      <div style=\"padding:32px 16px;border-radius:16px;background:#F5F5F5;transition:all 0.3s;cursor:pointer\">\n        <div style=\"width:56px;height:56px;margin:0 auto 16px;border-radius:50%;background:#6A1B9A;display:flex;align-items:center;justify-content:center\">\n          <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M4 1h16v2H4V1zm0 4h16v2H4V5zm10 6H4v2h10v-2zm6.5-1.5L19 8l-1.5 1.5L16 8l-1.5 1.5-1 1L16 13l1.5-1.5L19 13l1.5-1.5 1-1L20 9.5z\"/></svg>\n        </div>\n        <h3 style=\"font-size:1.1rem;font-weight:700;color:#333\">Judicially</h3>\n      </div>\n    </div>\n  </div>\n</section>"
+    },
+    {
+      "type": "about",
+      "title": "Persecution News",
+      "settings": {
+        "customHtml": "<section style=\"padding:80px 24px;background:#F5F5F5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"font-size:clamp(1.75rem,4vw,2.25rem);font-weight:800;color:#333;text-align:center;margin-bottom:48px\">Latest Persecution News</h2>\n    <div style=\"position:relative;padding-left:32px;border-left:3px solid #2E7D32\">\n      <div style=\"margin-bottom:40px;position:relative\">\n        <div style=\"position:absolute;left:-43px;top:4px;width:20px;height:20px;border-radius:50%;background:#2E7D32;border:3px solid #F5F5F5\"></div>\n        <span style=\"font-size:0.8rem;color:#2E7D32;font-weight:600\">March 5, 2024</span>\n        <div style=\"background:#fff;border-radius:12px;padding:20px;margin-top:8px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n          <div style=\"width:100%;height:180px;border-radius:8px;background:url('https://images.unsplash.com/photo-1532375810709-75b1da00a5b1?w=600') center/cover;margin-bottom:16px\"></div>\n          <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Church Attack in Rural Village Leaves Community Shaken</h3>\n          <p style=\"color:#666;font-size:0.9rem;line-height:1.6;margin-bottom:12px\">A small congregation faced violent disruption during Sunday worship. Persecution Relief responded immediately with legal and medical aid...</p>\n          <a href=\"/news-english\" style=\"color:#1565C0;font-weight:600;font-size:0.9rem;text-decoration:none\">Read More →</a>\n        </div>\n      </div>\n      <div style=\"margin-bottom:40px;position:relative\">\n        <div style=\"position:absolute;left:-43px;top:4px;width:20px;height:20px;border-radius:50%;background:#E65100;border:3px solid #F5F5F5\"></div>\n        <span style=\"font-size:0.8rem;color:#E65100;font-weight:600\">February 18, 2024</span>\n        <div style=\"background:#fff;border-radius:12px;padding:20px;margin-top:8px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n          <div style=\"width:100%;height:180px;border-radius:8px;background:url('https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=600') center/cover;margin-bottom:16px\"></div>\n          <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Pastor Detained Without Charges — Legal Team Deployed</h3>\n          <p style=\"color:#666;font-size:0.9rem;line-height:1.6;margin-bottom:12px\">Our judicial response team secured the release of a pastor held for 72 hours without formal charges...</p>\n          <a href=\"/news-english\" style=\"color:#1565C0;font-weight:600;font-size:0.9rem;text-decoration:none\">Read More →</a>\n        </div>\n      </div>\n    </div>\n    <div style=\"text-align:center;margin-top:24px\">\n      <a href=\"/news-english\" style=\"display:inline-block;padding:12px 40px;border:2px solid #2E7D32;color:#2E7D32;font-weight:700;border-radius:8px;text-decoration:none;transition:all 0.3s\">Load More</a>\n    </div>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"padding:80px 24px;background:#F5F5F5\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h2 style=\"font-size:clamp(1.75rem,4vw,2.25rem);font-weight:800;color:#333;text-align:center;margin-bottom:48px\">Latest Persecution News</h2>\n    <div style=\"position:relative;padding-left:32px;border-left:3px solid #2E7D32\">\n      <div style=\"margin-bottom:40px;position:relative\">\n        <div style=\"position:absolute;left:-43px;top:4px;width:20px;height:20px;border-radius:50%;background:#2E7D32;border:3px solid #F5F5F5\"></div>\n        <span style=\"font-size:0.8rem;color:#2E7D32;font-weight:600\">March 5, 2024</span>\n        <div style=\"background:#fff;border-radius:12px;padding:20px;margin-top:8px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n          <div style=\"width:100%;height:180px;border-radius:8px;background:url('https://images.unsplash.com/photo-1532375810709-75b1da00a5b1?w=600') center/cover;margin-bottom:16px\"></div>\n          <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Church Attack in Rural Village Leaves Community Shaken</h3>\n          <p style=\"color:#666;font-size:0.9rem;line-height:1.6;margin-bottom:12px\">A small congregation faced violent disruption during Sunday worship. Persecution Relief responded immediately with legal and medical aid...</p>\n          <a href=\"/news-english\" style=\"color:#1565C0;font-weight:600;font-size:0.9rem;text-decoration:none\">Read More →</a>\n        </div>\n      </div>\n      <div style=\"margin-bottom:40px;position:relative\">\n        <div style=\"position:absolute;left:-43px;top:4px;width:20px;height:20px;border-radius:50%;background:#E65100;border:3px solid #F5F5F5\"></div>\n        <span style=\"font-size:0.8rem;color:#E65100;font-weight:600\">February 18, 2024</span>\n        <div style=\"background:#fff;border-radius:12px;padding:20px;margin-top:8px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n          <div style=\"width:100%;height:180px;border-radius:8px;background:url('https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=600') center/cover;margin-bottom:16px\"></div>\n          <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Pastor Detained Without Charges — Legal Team Deployed</h3>\n          <p style=\"color:#666;font-size:0.9rem;line-height:1.6;margin-bottom:12px\">Our judicial response team secured the release of a pastor held for 72 hours without formal charges...</p>\n          <a href=\"/news-english\" style=\"color:#1565C0;font-weight:600;font-size:0.9rem;text-decoration:none\">Read More →</a>\n        </div>\n      </div>\n    </div>\n    <div style=\"text-align:center;margin-top:24px\">\n      <a href=\"/news-english\" style=\"display:inline-block;padding:12px 40px;border:2px solid #2E7D32;color:#2E7D32;font-weight:700;border-radius:8px;text-decoration:none;transition:all 0.3s\">Load More</a>\n    </div>\n  </div>\n</section>"
+    },
+    {
+      "type": "cta",
+      "title": "Follow Us",
+      "settings": {
+        "customHtml": "<section style=\"padding:64px 24px;background:#fff\">\n  <div style=\"max-width:700px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px\">\n    <a href=\"https://facebook.com/persecutionrelief\" target=\"_blank\" rel=\"noopener\" style=\"display:flex;align-items:center;gap:20px;padding:32px;background:#1877F2;border-radius:16px;color:#fff;text-decoration:none;transition:transform 0.3s\">\n      <svg width=\"40\" height=\"40\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z\"/></svg>\n      <div><p style=\"font-size:1.25rem;font-weight:700\">Facebook</p><p style=\"font-size:0.85rem;opacity:0.85\">Follow our page</p></div>\n    </a>\n    <a href=\"https://instagram.com/persecutionrelief\" target=\"_blank\" rel=\"noopener\" style=\"display:flex;align-items:center;gap:20px;padding:32px;background:linear-gradient(45deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888);border-radius:16px;color:#fff;text-decoration:none;transition:transform 0.3s\">\n      <svg width=\"40\" height=\"40\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z\"/></svg>\n      <div><p style=\"font-size:1.25rem;font-weight:700\">Instagram</p><p style=\"font-size:0.85rem;opacity:0.85\">Follow us</p></div>\n    </a>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"padding:64px 24px;background:#fff\">\n  <div style=\"max-width:700px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px\">\n    <a href=\"https://facebook.com/persecutionrelief\" target=\"_blank\" rel=\"noopener\" style=\"display:flex;align-items:center;gap:20px;padding:32px;background:#1877F2;border-radius:16px;color:#fff;text-decoration:none;transition:transform 0.3s\">\n      <svg width=\"40\" height=\"40\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z\"/></svg>\n      <div><p style=\"font-size:1.25rem;font-weight:700\">Facebook</p><p style=\"font-size:0.85rem;opacity:0.85\">Follow our page</p></div>\n    </a>\n    <a href=\"https://instagram.com/persecutionrelief\" target=\"_blank\" rel=\"noopener\" style=\"display:flex;align-items:center;gap:20px;padding:32px;background:linear-gradient(45deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888);border-radius:16px;color:#fff;text-decoration:none;transition:transform 0.3s\">\n      <svg width=\"40\" height=\"40\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z\"/></svg>\n      <div><p style=\"font-size:1.25rem;font-weight:700\">Instagram</p><p style=\"font-size:0.85rem;opacity:0.85\">Follow us</p></div>\n    </a>\n  </div>\n</section>"
+    },
+    {
+      "type": "cta",
+      "title": "We Need Volunteers for India",
+      "settings": {
+        "customHtml": "<section style=\"padding:80px 24px;background:#E8F5E9;text-align:center\">\n  <div style=\"max-width:600px;margin:0 auto\">\n    <div style=\"width:80px;height:80px;margin:0 auto 24px;border-radius:50%;background:#2E7D32;display:flex;align-items:center;justify-content:center\">\n      <svg width=\"36\" height=\"36\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z\"/></svg>\n    </div>\n    <h2 style=\"font-size:clamp(1.5rem,4vw,2.25rem);font-weight:800;color:#333;margin-bottom:16px\">We Need Volunteers for India</h2>\n    <p style=\"color:#555;font-size:1rem;line-height:1.7;margin-bottom:32px\">Join our network of dedicated volunteers who stand with persecuted communities across India.</p>\n    <a href=\"/join-us\" style=\"display:inline-block;padding:16px 48px;background:#2E7D32;color:#fff;font-weight:700;font-size:1.1rem;border-radius:8px;text-decoration:none;text-transform:uppercase;letter-spacing:1px\">Become a Volunteer</a>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"padding:80px 24px;background:#E8F5E9;text-align:center\">\n  <div style=\"max-width:600px;margin:0 auto\">\n    <div style=\"width:80px;height:80px;margin:0 auto 24px;border-radius:50%;background:#2E7D32;display:flex;align-items:center;justify-content:center\">\n      <svg width=\"36\" height=\"36\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z\"/></svg>\n    </div>\n    <h2 style=\"font-size:clamp(1.5rem,4vw,2.25rem);font-weight:800;color:#333;margin-bottom:16px\">We Need Volunteers for India</h2>\n    <p style=\"color:#555;font-size:1rem;line-height:1.7;margin-bottom:32px\">Join our network of dedicated volunteers who stand with persecuted communities across India.</p>\n    <a href=\"/join-us\" style=\"display:inline-block;padding:16px 48px;background:#2E7D32;color:#fff;font-weight:700;font-size:1.1rem;border-radius:8px;text-decoration:none;text-transform:uppercase;letter-spacing:1px\">Become a Volunteer</a>\n  </div>\n</section>"
+    },
+    {
+      "type": "cta",
+      "title": "Campaign Banners",
+      "settings": {
+        "customHtml": "<section>\n  <div style=\"padding:48px 24px;background:#E65100;text-align:center\">\n    <h3 style=\"font-size:clamp(1rem,3vw,1.5rem);font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px\">Indian Christian Martyrdom Day – ICMD</h3>\n    <p style=\"color:rgba(255,255,255,0.85);font-size:0.95rem;max-width:600px;margin:0 auto 20px\">Remembering the sacrifice of those who gave their lives for their faith.</p>\n    <a href=\"/about-us\" style=\"display:inline-block;padding:10px 32px;border:2px solid #fff;color:#fff;font-weight:700;border-radius:6px;text-decoration:none\">Learn More</a>\n  </div>\n  <div style=\"padding:48px 24px;background:#fff;text-align:center\">\n    <h3 style=\"font-size:clamp(1rem,3vw,1.5rem);font-weight:800;color:#333;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px\">Indian Christian Day of Prayer for the Persecuted – ICDPP</h3>\n    <p style=\"color:#666;font-size:0.95rem;max-width:600px;margin:0 auto 20px\">A day of united prayer for believers facing persecution across India.</p>\n    <a href=\"/about-us\" style=\"display:inline-block;padding:10px 32px;border:2px solid #333;color:#333;font-weight:700;border-radius:6px;text-decoration:none\">Join in Prayer</a>\n  </div>\n  <div style=\"padding:48px 24px;background:#2E7D32;text-align:center\">\n    <h3 style=\"font-size:clamp(1rem,3vw,1.5rem);font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px\">Indian Christian Prayer Day for the Persecutors – ICPP</h3>\n    <p style=\"color:rgba(255,255,255,0.85);font-size:0.95rem;max-width:600px;margin:0 auto 20px\">Praying for transformation and change in the hearts of those who persecute.</p>\n    <a href=\"/about-us\" style=\"display:inline-block;padding:10px 32px;border:2px solid #fff;color:#fff;font-weight:700;border-radius:6px;text-decoration:none\">Learn More</a>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section>\n  <div style=\"padding:48px 24px;background:#E65100;text-align:center\">\n    <h3 style=\"font-size:clamp(1rem,3vw,1.5rem);font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px\">Indian Christian Martyrdom Day – ICMD</h3>\n    <p style=\"color:rgba(255,255,255,0.85);font-size:0.95rem;max-width:600px;margin:0 auto 20px\">Remembering the sacrifice of those who gave their lives for their faith.</p>\n    <a href=\"/about-us\" style=\"display:inline-block;padding:10px 32px;border:2px solid #fff;color:#fff;font-weight:700;border-radius:6px;text-decoration:none\">Learn More</a>\n  </div>\n  <div style=\"padding:48px 24px;background:#fff;text-align:center\">\n    <h3 style=\"font-size:clamp(1rem,3vw,1.5rem);font-weight:800;color:#333;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px\">Indian Christian Day of Prayer for the Persecuted – ICDPP</h3>\n    <p style=\"color:#666;font-size:0.95rem;max-width:600px;margin:0 auto 20px\">A day of united prayer for believers facing persecution across India.</p>\n    <a href=\"/about-us\" style=\"display:inline-block;padding:10px 32px;border:2px solid #333;color:#333;font-weight:700;border-radius:6px;text-decoration:none\">Join in Prayer</a>\n  </div>\n  <div style=\"padding:48px 24px;background:#2E7D32;text-align:center\">\n    <h3 style=\"font-size:clamp(1rem,3vw,1.5rem);font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:2px;margin-bottom:8px\">Indian Christian Prayer Day for the Persecutors – ICPP</h3>\n    <p style=\"color:rgba(255,255,255,0.85);font-size:0.95rem;max-width:600px;margin:0 auto 20px\">Praying for transformation and change in the hearts of those who persecute.</p>\n    <a href=\"/about-us\" style=\"display:inline-block;padding:10px 32px;border:2px solid #fff;color:#fff;font-weight:700;border-radius:6px;text-decoration:none\">Learn More</a>\n  </div>\n</section>"
+    },
+    {
+      "type": "cta",
+      "title": "Report Persecution",
+      "settings": {
+        "customHtml": "<section style=\"padding:80px 24px;background:#1a1a2e;text-align:center\">\n  <div style=\"max-width:600px;margin:0 auto\">\n    <h2 style=\"font-size:clamp(1.75rem,4vw,2.5rem);font-weight:900;color:#fff;text-transform:uppercase;letter-spacing:2px;margin-bottom:16px\">Report Persecution</h2>\n    <p style=\"color:rgba(255,255,255,0.7);font-size:1rem;margin-bottom:32px\">If you or someone you know is facing persecution, report it immediately. Our team responds 24/7.</p>\n    <a href=\"/report-persecution\" style=\"display:inline-block;padding:16px 56px;background:#E65100;color:#fff;font-weight:700;font-size:1.1rem;border-radius:8px;text-decoration:none;text-transform:uppercase;letter-spacing:1px\">Submit Report</a>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"padding:80px 24px;background:#1a1a2e;text-align:center\">\n  <div style=\"max-width:600px;margin:0 auto\">\n    <h2 style=\"font-size:clamp(1.75rem,4vw,2.5rem);font-weight:900;color:#fff;text-transform:uppercase;letter-spacing:2px;margin-bottom:16px\">Report Persecution</h2>\n    <p style=\"color:rgba(255,255,255,0.7);font-size:1rem;margin-bottom:32px\">If you or someone you know is facing persecution, report it immediately. Our team responds 24/7.</p>\n    <a href=\"/report-persecution\" style=\"display:inline-block;padding:16px 56px;background:#E65100;color:#fff;font-weight:700;font-size:1.1rem;border-radius:8px;text-decoration:none;text-transform:uppercase;letter-spacing:1px\">Submit Report</a>\n  </div>\n</section>"
+    },
+    {
+      "type": "cta",
+      "title": "I Am New Here",
+      "settings": {
+        "customHtml": "<section style=\"padding:64px 24px;background:#F5F5F5;text-align:center\">\n  <div style=\"max-width:600px;margin:0 auto\">\n    <h2 style=\"font-size:clamp(1.5rem,4vw,2rem);font-weight:800;color:#333;margin-bottom:12px\">I Am New Here</h2>\n    <p style=\"color:#555;font-size:1rem;line-height:1.7;margin-bottom:32px\">Welcome! Join our WhatsApp community to stay updated on prayer requests, news, and ways you can help.</p>\n    <a href=\"https://wa.me/911800123461?text=I%20want%20to%20join%20the%20community\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-flex;align-items:center;gap:12px;padding:16px 40px;background:#25D366;color:#fff;font-weight:700;font-size:1.1rem;border-radius:50px;text-decoration:none\">\n      <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z\"/><path d=\"M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.611.611l4.458-1.495A11.945 11.945 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.325 0-4.47-.768-6.203-2.065l-.433-.334-3.187 1.069 1.069-3.187-.334-.433A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z\"/></svg>\n      Join WhatsApp\n    </a>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"padding:64px 24px;background:#F5F5F5;text-align:center\">\n  <div style=\"max-width:600px;margin:0 auto\">\n    <h2 style=\"font-size:clamp(1.5rem,4vw,2rem);font-weight:800;color:#333;margin-bottom:12px\">I Am New Here</h2>\n    <p style=\"color:#555;font-size:1rem;line-height:1.7;margin-bottom:32px\">Welcome! Join our WhatsApp community to stay updated on prayer requests, news, and ways you can help.</p>\n    <a href=\"https://wa.me/911800123461?text=I%20want%20to%20join%20the%20community\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-flex;align-items:center;gap:12px;padding:16px 40px;background:#25D366;color:#fff;font-weight:700;font-size:1.1rem;border-radius:50px;text-decoration:none\">\n      <svg width=\"24\" height=\"24\" fill=\"white\" viewBox=\"0 0 24 24\"><path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z\"/><path d=\"M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.611.611l4.458-1.495A11.945 11.945 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.325 0-4.47-.768-6.203-2.065l-.433-.334-3.187 1.069 1.069-3.187-.334-.433A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z\"/></svg>\n      Join WhatsApp\n    </a>\n  </div>\n</section>"
+    },
+    {
+      "type": "cta",
+      "title": "Partner With Us",
+      "settings": {
+        "customHtml": "<section style=\"padding:64px 24px;background:#fff;text-align:center\">\n  <div style=\"max-width:600px;margin:0 auto\">\n    <div style=\"width:72px;height:72px;margin:0 auto 20px;border-radius:50%;background:#E3F2FD;display:flex;align-items:center;justify-content:center\">\n      <svg width=\"32\" height=\"32\" fill=\"#1565C0\" viewBox=\"0 0 24 24\"><path d=\"M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z\"/></svg>\n    </div>\n    <h2 style=\"font-size:clamp(1.5rem,4vw,2rem);font-weight:800;color:#333;margin-bottom:16px\">Partner With Us</h2>\n    <p style=\"color:#555;font-size:1rem;line-height:1.7;margin-bottom:32px\">Churches, organizations, and individuals — together we can make a greater impact for the persecuted.</p>\n    <a href=\"/join-us\" style=\"display:inline-block;padding:14px 48px;background:#1565C0;color:#fff;font-weight:700;font-size:1rem;border-radius:8px;text-decoration:none;text-transform:uppercase;letter-spacing:1px\">Partner With Us</a>\n  </div>\n</section>",
+        "layoutVariant": "ai-custom"
+      },
+      "customHtml": "<section style=\"padding:64px 24px;background:#fff;text-align:center\">\n  <div style=\"max-width:600px;margin:0 auto\">\n    <div style=\"width:72px;height:72px;margin:0 auto 20px;border-radius:50%;background:#E3F2FD;display:flex;align-items:center;justify-content:center\">\n      <svg width=\"32\" height=\"32\" fill=\"#1565C0\" viewBox=\"0 0 24 24\"><path d=\"M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z\"/></svg>\n    </div>\n    <h2 style=\"font-size:clamp(1.5rem,4vw,2rem);font-weight:800;color:#333;margin-bottom:16px\">Partner With Us</h2>\n    <p style=\"color:#555;font-size:1rem;line-height:1.7;margin-bottom:32px\">Churches, organizations, and individuals — together we can make a greater impact for the persecuted.</p>\n    <a href=\"/join-us\" style=\"display:inline-block;padding:14px 48px;background:#1565C0;color:#fff;font-weight:700;font-size:1rem;border-radius:8px;text-decoration:none;text-transform:uppercase;letter-spacing:1px\">Partner With Us</a>\n  </div>\n</section>"
+    },
+    {
+      "type": "contact",
+      "title": "Contact Us"
+    }
+  ],
+  "globalStyles": {
+    "colors": {
+      "text": "#1E293B",
+      "muted": "#64748B",
+      "accent": "#F59E0B",
+      "primary": "#7C3AED",
+      "secondary": "#4F46E5",
+      "background": "#FFFFFF"
+    },
+    "buttons": {
+      "size": "md",
+      "shape": "rounded",
+      "style": "solid"
+    },
+    "spacing": "spacious",
+    "animations": {
+      "enabled": true,
+      "hoverEffects": true
+    },
+    "typography": {
+      "scale": {
+        "h1": "48px",
+        "h2": "36px",
+        "h3": "26px",
+        "h4": "20px",
+        "body": "17px",
+        "small": "14px"
+      },
+      "bodyFont": "Open Sans",
+      "lineHeight": "relaxed",
+      "headingFont": "Merriweather",
+      "letterSpacing": "normal"
+    },
+    "borderRadius": "md"
+  },
+  "detectedCategory": "nonprofit"
+}
