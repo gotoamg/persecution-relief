@@ -25,9 +25,9 @@
       },
       "slides": [
         {
-          "id": "slide-1773467865465-h01u5pkpz",
-          "title": "Stand for Justice: Empowering Persecuted Christians in India.",
-          "subtitle": "Every day, innocent Christians face severe persecution. Your support provides vital legal aid, financial relief, and a voice to the voiceless.",
+          "id": "slide-1773503630696-krk5niiag",
+          "title": "Stand for the Persecuted: Your Voice, Their Hope.",
+          "subtitle": "Join Persecution Relief in documenting, advocating, and providing vital support to Christian communities facing persecution across India. Every action makes a difference.",
           "description": "",
           "overlayColor": "#000000",
           "primaryButton": {
@@ -35,29 +35,29 @@
             "text": "Report Persecution"
           },
           "overlayOpacity": 50,
-          "backgroundImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+          "backgroundImage": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80",
           "secondaryButton": {
             "link": "#about",
             "text": "Call Now"
           }
         },
         {
-          "id": "slide-1773467865465-a4unniyqu",
+          "id": "slide-1773503630696-nxdhy886w",
           "title": "",
           "subtitle": "",
           "description": "",
           "overlayColor": "#000000",
           "overlayOpacity": 50,
-          "backgroundImage": "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=1920&q=80"
+          "backgroundImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80"
         },
         {
-          "id": "slide-1773467865465-dd9qkogbf",
+          "id": "slide-1773503630696-coc6om63h",
           "title": "",
           "subtitle": "",
           "description": "",
           "overlayColor": "#000000",
           "overlayOpacity": 50,
-          "backgroundImage": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80"
+          "backgroundImage": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1920&q=80"
         }
       ],
       "animation": {
@@ -103,16 +103,16 @@
       }
     },
     "layout": "centered",
-    "heading": "Stand for Justice: Empowering Persecuted Christians in India.",
-    "heroImage": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
+    "heading": "Stand for the Persecuted: Your Voice, Their Hope.",
+    "heroImage": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80",
     "imageBlur": 0,
     "heroImages": [
+      "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80",
       "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1920&q=80",
-      "https://images.unsplash.com/photo-1593113598332-cd288d649433?w=1920&q=80",
-      "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?w=1920&q=80"
+      "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1920&q=80"
     ],
     "primaryCTA": "Report Persecution",
-    "subheading": "Every day, innocent Christians face severe persecution. Your support provides vital legal aid, financial relief, and a voice to the voiceless.",
+    "subheading": "Join Persecution Relief in documenting, advocating, and providing vital support to Christian communities facing persecution across India. Every action makes a difference.",
     "imageOverlay": 50,
     "secondaryCTA": "Call Now",
     "sliderInterval": 5000,
@@ -121,118 +121,26 @@
   "pages": [
     {
       "id": "page-home",
+      "hero": {
+        "layout": "centered",
+        "heading": "Stand for the Persecuted: Your Voice, Their Hope.",
+        "heroImage": "https://images.unsplash.com/photo-1596245353049-74e6d42642a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjgyNzV8MHwxfHNlYXJjaHw1OXx8cHJheWluZ3xlbnwwfHx8fDE3MTUyNDEzNDF8MA&ixlib=rb-4.0.3&q=80&w=1920",
+        "imageBlur": 0,
+        "heroImages": [
+          "https://images.unsplash.com/photo-1596706939985-8025287f3b89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjgyNzV8MHwxfHNlYXJjaHwxNXx8cHJheWluZyUyMGhhbmRzfGVufDB8fHx8MTcxNTI0Mzk4MXww&ixlib=rb-4.0.3&q=80&w=1920",
+          "https://images.unsplash.com/photo-1552504958-45a76957c5a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjgyNzV8MHwxfHNlYXJjaHwxMjJ8fGNvbW11bml0eSUyMGhlbHB8ZW58MHx8fHwxNzE1MjQ0MTYyfDA&ixlib=rb-4.0.3&q=80&w=1920",
+          "https://images.unsplash.com/photo-1506869640319-fea5e638db67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MjgyNzV8MHwxfHNlYXJjaHw3OXx8c3VwcG9ydCUyMGdyb3VwfGVufDB8fHx8MTcxNTI0NDA4N3ww&ixlib=rb-4.0.3&q=80&w=1920"
+        ],
+        "primaryCTA": "Report Persecution",
+        "subheading": "Join Persecution Relief in documenting, advocating, and providing vital support to Christian communities facing persecution across India. Every action makes a difference.",
+        "imageOverlay": 50,
+        "secondaryCTA": "Learn More About Us",
+        "sliderInterval": 5000
+      },
       "slug": "",
       "title": "Home",
       "isHome": true,
-      "sections": [
-        {
-          "id": "why-we-exist-home",
-          "type": "features",
-          "items": [
-            {
-              "icon": "🛡️",
-              "title": "Documenting Injustice",
-              "description": "We meticulously record incidents of persecution, building a verifiable database to expose violations and demand accountability."
-            },
-            {
-              "icon": "⚖️",
-              "title": "Providing Legal Aid",
-              "description": "Our network of lawyers offers crucial legal assistance to victims, helping them navigate complex legal systems and seek justice."
-            },
-            {
-              "icon": "🤲",
-              "title": "Offering Compassionate Support",
-              "description": "Beyond legalities, we provide financial aid, medical assistance, and trauma counseling to those who have lost everything."
-            }
-          ],
-          "title": "Why Persecution Relief Exists",
-          "layout": "grid-3"
-        },
-        {
-          "id": "our-work-home",
-          "type": "services",
-          "items": [
-            {
-              "icon": "📞",
-              "image": "https://images.unsplash.com/photo-1542435503-956c469947f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwxNXx8Y2FsbCUyMGNlbnRlcnxlbnwwfHx8fDE3MjE4MjAwMzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "24/7 Helpline Support",
-              "description": "Our dedicated multi-lingual helpline provides immediate assistance, crisis intervention, and guidance to those facing persecution. We are always here to listen and respond."
-            },
-            {
-              "icon": "📰",
-              "image": "https://images.unsplash.com/photo-1504711432028-3088ad17fcd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwyNnx8cHJlc3MlMjBjb25mZXJlbmNlfGVufDB8fHx8MTcyMTgyMDA1N3ww&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Reporting & Advocacy",
-              "description": "We publish comprehensive reports and actively advocate for religious freedom with national and international bodies. Our voice champions the rights of the persecuted."
-            },
-            {
-              "icon": "📚",
-              "image": "https://images.unsplash.com/photo-1582213782176-ebf7902ba694?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwxOHx8bGF3fGVufDB8fHx8MTcyMTgyMDExNXww&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Legal Intervention",
-              "description": "From filing FIRs to representing cases in court, our legal team fights for justice, challenging wrongful arrests and property destructions. We stand by our brothers and sisters."
-            },
-            {
-              "icon": "💵",
-              "image": "https://images.unsplash.com/photo-1532629396-dcec2f04e46d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwyMnx8Y2hhcml0eSUyMGdpdmV1cHMlMjBvZmZlcmVkJTIwZm9vZHxlbnwwfHx8fDE3MjE4MjAxNTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Financial & Material Aid",
-              "description": "We provide emergency funds, food, shelter, and medical assistance to families displaced or harmed by persecution. Every contribution makes a tangible difference."
-            },
-            {
-              "icon": "🙏",
-              "image": "https://images.unsplash.com/photo-1589182390448-732e4d9c0250?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwzfHxwcmluZyUyMHByYXllcnxlbnwwfHx8fDE3MjE4MjAwODJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Prayer Network Activation",
-              "description": "We mobilize a global prayer network to intercede for the persecuted, believing in the power of collective prayer for strength and divine intervention."
-            },
-            {
-              "icon": "🎓",
-              "image": "https://images.unsplash.com/photo-1534030635445-5df04d607f2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNzUzMDJ8MHwxfHNlYXJjaHwzMXx8ZWR1Y2F0aW9uJTIwaW5kaWF8ZW58MHx8fHwxNzIxODIwMDA3fDA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Awareness & Education",
-              "description": "Through seminars, publications, and social media, we raise awareness about the plight of persecuted Christians, fostering understanding and empathy worldwide. Education is key to change."
-            }
-          ],
-          "title": "Our Impactful Outreach",
-          "layout": "grid-3"
-        },
-        {
-          "id": "voices-of-hope-home",
-          "type": "testimonials",
-          "items": [
-            {
-              "name": "Pastor Samuel K.",
-              "quote": "When our church was attacked, Persecution Relief was the first to respond. They connected us with legal counsel and brought food for our families. Their quick action restored our faith in humanity.",
-              "title": "Community Leader, Odisha",
-              "rating": 5
-            },
-            {
-              "name": "Maria Devi",
-              "quote": "My husband was wrongfully detained. Persecution Relief fought tirelessly for his release, providing our family with financial support during the darkest time. We are forever grateful for their advocacy.",
-              "title": "Wife of Persecuted Christian, Uttar Pradesh",
-              "rating": 5
-            },
-            {
-              "name": "Brother Elijah M.",
-              "quote": "The team at Persecution Relief not only documented our incident but also ensured it reached international organizations. Their dedication to justice is inspiring and provides immense encouragement.",
-              "title": "Persecution Survivor, Karnataka",
-              "rating": 5
-            }
-          ],
-          "title": "Voices of Hope and Resilience",
-          "layout": "cards"
-        },
-        {
-          "id": "cta-support-us-home",
-          "body": "Join Persecution Relief in protecting religious freedom and providing vital aid. Every donation, every prayer, every shared story makes a profound difference.",
-          "type": "cta",
-          "title": "Your support can change lives.",
-          "primaryCTA": {
-            "href": "/financially",
-            "text": "Donate Securely"
-          },
-          "secondaryCTA": {
-            "href": "/how-to-help",
-            "text": "Learn How to Help"
-          }
-        }
-      ],
+      "sections": [],
       "isVisible": true
     },
     {
@@ -308,228 +216,383 @@
       "isVisible": true
     },
     {
-      "id": "page-our-work",
-      "slug": "our-work",
-      "title": "Our Work",
+      "id": "page-persecution-promised",
+      "slug": "persecution-promised",
+      "title": "Persecution Promised",
       "isHome": false,
       "sections": [
         {
-          "id": "our-work-intro",
-          "body": "At Persecution Relief, our commitment to the persecuted Christian community in India manifests through a multi-faceted approach. We don't just react to incidents; we proactively work to prevent, protect, and empower. Our model integrates reporting, relief, legal aid, advocacy, and spiritual support to provide holistic care for those facing the brunt of religious intolerance.",
-          "type": "content",
-          "title": "Comprehensive Support for Persecuted Christians"
-        },
-        {
-          "id": "our-programs",
-          "type": "services",
-          "items": [
-            {
-              "icon": "☎️",
-              "image": "https://images.unsplash.com/photo-1556740714-a83d47ad0c42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyM3x8MjQlMkY3JTIwY2FsbCUyMGNlbnRlcnxlbnwwfHx8fDE3MjE4MjEyNTF8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "24/7 National Emergency Helpline",
-              "description": "Our toll-free helpline operates around the clock, providing immediate response to distress calls from victims nationwide. This is often the first point of contact for urgent needs, providing instant relief and guidance."
-            },
-            {
-              "icon": "📋",
-              "image": "https://images.unsplash.com/photo-1507925921958-81a0fa42f6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxNXx8ZG9jdW1lbnRhdGlvbiUyMHJlcG9ydGlua3xlbnwwfHx8fDE3MjE4MjEyNTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Incident Documentation & Reporting",
-              "description": "We meticulously document every reported incident, gathering evidence, testimonies, and impact assessments. These detailed reports form the basis for our advocacy and provide crucial data for understanding persecution trends."
-            },
-            {
-              "icon": "🧑‍⚖️",
-              "image": "https://images.unsplash.com/photo-1590740924403-12cc80e224e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3MHx8bGF3JTIwY291cnRyb29tfGVufDB8fHx8MTcyMTgyMTI2MXww&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Legal Assistance & Intervention",
-              "description": "Through a network of dedicated lawyers, we offer pro-bono legal counsel, file First Information Reports (FIRs), represent victims in court, and challenge unjust laws. We fight for their fundamental rights."
-            },
-            {
-              "icon": "💸",
-              "image": "https://images.unsplash.com/photo-1510925757911-37012678508f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMXx8Y2hhcml0eSUyMGZvb2QlMjBhZHVsZXRzJTIwaW5kaWF8ZW5wwfHx8fDE3MjE4MjEyNjF8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Emergency Financial & Material Aid",
-              "description": "For those displaced, injured, or with destroyed property, we provide emergency relief including food, shelter assistance, medical aid, and trauma counseling. This essential aid helps them rebuild their lives."
-            },
-            {
-              "icon": "🗣️",
-              "image": "https://images.unsplash.com/photo-1549923746-c56b6a48a5c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2fHwucG9saXRpY2lhbnN8ZW5wwfHx8fDE3MjE4MjEyNTd8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "National & International Advocacy",
-              "description": "We engage with government bodies, human rights commissions, diplomatic missions, and international organizations to raise awareness, influence policy, and seek accountability for persecutors. Our voices are amplified globally."
-            },
-            {
-              "icon": "📻",
-              "image": "https://images.unsplash.com/photo-1498075773041-e1740be65620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwzMHx8aW5kaWElMjBldmVudHMlMjBuZXdzfGVufDB8fHx8MTcyMTgyMTI1OXww&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Media & Public Awareness Campaigns",
-              "description": "Through our news portals, social media, and public awareness campaigns, we educate the public about the challenges faced by Christians in India. We aim to foster understanding, empathy, and support among a wider audience."
-            }
-          ],
-          "title": "Key Programs & Initiatives",
-          "layout": "grid-3"
-        }
-      ],
-      "isVisible": true
-    },
-    {
-      "id": "page-why-we-exist",
-      "slug": "why-we-exist",
-      "title": "Why We Exist",
-      "isHome": false,
-      "sections": [
-        {
-          "id": "intro-persecution",
-          "body": "India, a land celebrated for its diversity, is increasingly becoming a challenging place for its Christian minority. Persecution, once sporadic, has become systematic and alarmingly prevalent. From physical assaults and mob violence to false accusations and legal harassment, Christians face a spectrum of threats simply for their faith. This growing intolerance necessitates an urgent and robust response, which is why Persecution Relief was founded.",
-          "type": "content",
-          "title": "The Unfolding Reality of Persecution in India"
-        },
-        {
-          "id": "statistics-persecution",
-          "body": "Year after year, the number of reported incidents of Christian persecution in India continues to climb. Our data reflects a disturbing trend: attacks on churches, forced conversions, social boycotts, and legal battles are becoming commonplace. This environment of fear and intimidation not only violates constitutional rights to religious freedom but also shatters lives and communities. We exist to be a beacon of hope and a shield of protection in this escalating crisis. We believe that by shedding light on these dark realities, we can mobilize support and demand justice for those who are suffering.",
-          "type": "content",
-          "title": "Facing the Facts: The Alarming Rise in Hostility"
-        },
-        {
-          "id": "our-response-mision",
-          "body": "The relentless assault on religious freedom demands a concerted effort. Persecution Relief stands in the gap, transforming reports of suffering into actionable interventions. Our mission is to ensure that every persecuted Christian has access to help, advocacy, and a community of support. We refuse to let their cries go unheard or their struggles unseen.",
-          "type": "cta",
-          "title": "Responding to Crisis: Our Call to Action",
-          "primaryCTA": {
-            "href": "/news",
-            "text": "See Our Latest Reports"
+          "type": "about",
+          "title": "Persecution Promised",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Promised</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Yes, and all who desire to live godly in Christ Jesus will suffer persecution.\" — 2 Timothy 3:12</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The Bible makes clear that persecution is not an anomaly but a promise. Jesus warned His followers that they would face opposition, hatred, and suffering for His name. Throughout Scripture, we see this pattern repeated — from the prophets of the Old Testament to the apostles of the New Testament. Persecution is woven into the fabric of faithful discipleship. Understanding this biblical truth helps believers prepare for and endure trials with steadfast faith.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
           },
-          "secondaryCTA": {
-            "href": "/join-us",
-            "text": "Join Our Mission"
-          }
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Promised</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Yes, and all who desire to live godly in Christ Jesus will suffer persecution.\" — 2 Timothy 3:12</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The Bible makes clear that persecution is not an anomaly but a promise. Jesus warned His followers that they would face opposition, hatred, and suffering for His name. Throughout Scripture, we see this pattern repeated — from the prophets of the Old Testament to the apostles of the New Testament. Persecution is woven into the fabric of faithful discipleship. Understanding this biblical truth helps believers prepare for and endure trials with steadfast faith.</p>\n  </div>\n</section>"
         }
       ],
       "isVisible": true
     },
     {
-      "id": "page-news",
-      "slug": "news",
-      "title": "News & Reports",
+      "id": "page-persecution-of-jesus",
+      "slug": "persecution-of-jesus",
+      "title": "Persecution of Jesus",
       "isHome": false,
       "sections": [
         {
-          "id": "news-intro",
-          "body": "Welcome to our News & Reports section, your source for the latest updates on Christian persecution in India and our ongoing efforts. Here you will find in-depth analysis, incident reports, success stories, and critical insights into the religious freedom landscape. Transparency and timely information are central to our advocacy.",
-          "type": "content",
-          "title": "Staying Informed: Latest on Persecution & Advocacy"
-        },
-        {
-          "id": "news-channels",
-          "type": "features",
-          "items": [
-            {
-              "cta": {
-                "href": "/news-english",
-                "text": "View English News"
-              },
-              "icon": "🇬🇧",
-              "title": "English News",
-              "description": "Read our comprehensive news reports and press releases in English, providing global insights into the challenges faced by Christians in India."
-            },
-            {
-              "cta": {
-                "href": "/news-hindi",
-                "text": "View Hindi News"
-              },
-              "icon": "🇮🇳",
-              "title": "Hindi News",
-              "description": "Access localized news and detailed reports in Hindi, reaching a broader audience within India and Hindi-speaking communities."
-            },
-            {
-              "cta": {
-                "href": "/news-malayalam",
-                "text": "View Malayalam News"
-              },
-              "icon": "🇮🇳",
-              "title": "Malayalam News",
-              "description": "Stay updated with reports and news specifically tailored for Malayalam-speaking regions, an important segment of the Christian population in India."
-            }
-          ],
-          "title": "News in Various Languages",
-          "layout": "grid-3"
+          "type": "about",
+          "title": "Persecution of Jesus",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution of Jesus</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"If the world hates you, keep in mind that it hated me first.\" — John 15:18</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Jesus Christ, the Son of God, faced the ultimate persecution. From His birth when Herod sought to kill Him, through His ministry when religious leaders plotted against Him, to His crucifixion on the cross — Jesus endured every form of persecution. His suffering was not in vain but accomplished the salvation of humanity. As followers of Christ, we walk in His footsteps, knowing that our Lord understands our suffering intimately.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution of Jesus</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"If the world hates you, keep in mind that it hated me first.\" — John 15:18</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Jesus Christ, the Son of God, faced the ultimate persecution. From His birth when Herod sought to kill Him, through His ministry when religious leaders plotted against Him, to His crucifixion on the cross — Jesus endured every form of persecution. His suffering was not in vain but accomplished the salvation of humanity. As followers of Christ, we walk in His footsteps, knowing that our Lord understands our suffering intimately.</p>\n  </div>\n</section>"
         }
       ],
       "isVisible": true
     },
     {
-      "id": "page-how-to-help",
-      "slug": "how-to-help",
-      "title": "How You Can Help",
+      "id": "page-persecution-birth",
+      "slug": "persecution-birth",
+      "title": "Persecution Birth",
       "isHome": false,
       "sections": [
         {
-          "id": "help-intro",
-          "body": "The battle for religious freedom and justice requires a collective effort. Your support, in any form, empowers Persecution Relief to continue our vital work for persecuted Christians in India. There are many ways you can stand with us and make a tangible difference.",
-          "type": "content",
-          "title": "Be a Beacon of Hope: Join the Fight Against Persecution"
+          "type": "about",
+          "title": "Persecution Birth",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Birth</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"A time is coming when anyone who kills you will think they are offering a service to God.\" — John 16:2</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The birth of the Christian church was accompanied by intense persecution. From the stoning of Stephen, the first Christian martyr, to the scattering of believers from Jerusalem, persecution served as the catalyst for the spread of the Gospel. The early church grew not despite persecution but through it, as believers carried their faith to new regions and peoples. This pattern continues today as the persecuted church remains one of the fastest-growing segments of Christianity worldwide.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Birth</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"A time is coming when anyone who kills you will think they are offering a service to God.\" — John 16:2</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The birth of the Christian church was accompanied by intense persecution. From the stoning of Stephen, the first Christian martyr, to the scattering of believers from Jerusalem, persecution served as the catalyst for the spread of the Gospel. The early church grew not despite persecution but through it, as believers carried their faith to new regions and peoples. This pattern continues today as the persecuted church remains one of the fastest-growing segments of Christianity worldwide.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-persecution-types",
+      "slug": "persecution-types",
+      "title": "Persecution Types",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Persecution Types",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Types</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.\" — Matthew 5:10</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Christian persecution takes many forms: physical violence, destruction of property, social ostracism, economic boycott, false legal charges, forced conversion, denial of education and employment, and psychological intimidation. In India, believers face mob attacks on churches, assault of pastors, burning of Bibles, and harassment under anti-conversion laws. Understanding the various types of persecution helps us respond effectively and provide appropriate support to victims.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Types</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.\" — Matthew 5:10</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Christian persecution takes many forms: physical violence, destruction of property, social ostracism, economic boycott, false legal charges, forced conversion, denial of education and employment, and psychological intimidation. In India, believers face mob attacks on churches, assault of pastors, burning of Bibles, and harassment under anti-conversion laws. Understanding the various types of persecution helps us respond effectively and provide appropriate support to victims.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-persecution-reaction",
+      "slug": "persecution-reaction",
+      "title": "Persecution Reaction",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Persecution Reaction",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Reaction</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"But I tell you, love your enemies and pray for those who persecute you.\" — Matthew 5:44</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The Christian response to persecution is unique among all faiths. Rather than retaliation or revenge, believers are called to respond with love, prayer, and forgiveness. This does not mean passivity — we actively seek justice through legal means, advocate for policy changes, and provide protection to the vulnerable. But our ultimate response is grounded in the love of Christ, who forgave His persecutors from the cross.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Reaction</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"But I tell you, love your enemies and pray for those who persecute you.\" — Matthew 5:44</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The Christian response to persecution is unique among all faiths. Rather than retaliation or revenge, believers are called to respond with love, prayer, and forgiveness. This does not mean passivity — we actively seek justice through legal means, advocate for policy changes, and provide protection to the vulnerable. But our ultimate response is grounded in the love of Christ, who forgave His persecutors from the cross.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-persecution-perspective",
+      "slug": "persecution-perspective",
+      "title": "Persecution Perspective",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Persecution Perspective",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Perspective</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.\" — 2 Corinthians 4:17</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">An eternal perspective transforms how we view persecution. While suffering is real and painful, Scripture teaches that it produces perseverance, character, and hope. The persecuted church throughout history has demonstrated remarkable faith, joy, and spiritual vitality precisely because they have learned to view their circumstances through the lens of eternity. This perspective does not minimize suffering but places it within God's greater purpose.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Perspective</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all.\" — 2 Corinthians 4:17</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">An eternal perspective transforms how we view persecution. While suffering is real and painful, Scripture teaches that it produces perseverance, character, and hope. The persecuted church throughout history has demonstrated remarkable faith, joy, and spiritual vitality precisely because they have learned to view their circumstances through the lens of eternity. This perspective does not minimize suffering but places it within God's greater purpose.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-persecution-fear",
+      "slug": "persecution-fear",
+      "title": "Persecution Fear",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Persecution Fear",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Fear</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Do not be afraid of those who kill the body but cannot kill the soul.\" — Matthew 10:28</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Fear is a natural response to persecution, but Scripture repeatedly calls believers to courage. Many Christians in India live in daily fear — fear of mob violence, fear of false charges, fear of losing their livelihood. Persecution Relief works to address both the spiritual and practical dimensions of fear, providing safety, legal protection, community support, and spiritual encouragement to help believers stand firm in their faith despite threats and intimidation.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Fear</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Do not be afraid of those who kill the body but cannot kill the soul.\" — Matthew 10:28</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Fear is a natural response to persecution, but Scripture repeatedly calls believers to courage. Many Christians in India live in daily fear — fear of mob violence, fear of false charges, fear of losing their livelihood. Persecution Relief works to address both the spiritual and practical dimensions of fear, providing safety, legal protection, community support, and spiritual encouragement to help believers stand firm in their faith despite threats and intimidation.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-persecution-of-paul",
+      "slug": "persecution-of-paul",
+      "title": "Persecution of Paul",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Persecution of Paul",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution of Paul</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"I have been in danger from rivers, in danger from bandits, in danger from my fellow Jews, in danger from Gentiles.\" — 2 Corinthians 11:26</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The Apostle Paul, once a persecutor of Christians himself, became one of the most persecuted believers in history. He was beaten, stoned, shipwrecked, imprisoned, and eventually martyred for his faith. Yet Paul considered all his suffering as nothing compared to knowing Christ. His letters from prison became foundational texts of the Christian faith, and his example continues to inspire persecuted believers around the world to endure with joy and purpose.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution of Paul</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"I have been in danger from rivers, in danger from bandits, in danger from my fellow Jews, in danger from Gentiles.\" — 2 Corinthians 11:26</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The Apostle Paul, once a persecutor of Christians himself, became one of the most persecuted believers in history. He was beaten, stoned, shipwrecked, imprisoned, and eventually martyred for his faith. Yet Paul considered all his suffering as nothing compared to knowing Christ. His letters from prison became foundational texts of the Christian faith, and his example continues to inspire persecuted believers around the world to endure with joy and purpose.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-persecution-india",
+      "slug": "persecution-india",
+      "title": "Persecution in India",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Persecution India",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution India</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Remember those in prison as if you were together with them in prison, and those who are mistreated as if you yourselves were suffering.\" — Hebrews 13:3</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">India is home to over 30 million Christians who face increasing levels of persecution. Incidents of violence against churches, pastors, and believers have risen dramatically in recent years. Anti-conversion laws in several states are used to harass and imprison Christians. Social boycotts, forced reconversions, and mob violence are common in rural areas. Persecution Relief documents hundreds of incidents each year and works tirelessly to provide support, legal aid, and advocacy for the persecuted church in India.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution India</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Remember those in prison as if you were together with them in prison, and those who are mistreated as if you yourselves were suffering.\" — Hebrews 13:3</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">India is home to over 30 million Christians who face increasing levels of persecution. Incidents of violence against churches, pastors, and believers have risen dramatically in recent years. Anti-conversion laws in several states are used to harass and imprison Christians. Social boycotts, forced reconversions, and mob violence are common in rural areas. Persecution Relief documents hundreds of incidents each year and works tirelessly to provide support, legal aid, and advocacy for the persecuted church in India.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-persecution-deaths-of-disciples",
+      "slug": "persecution-deaths-of-disciples",
+      "title": "Persecution Deaths of Disciples",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Deaths of Disciples",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Deaths of Disciples</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Be faithful, even to the point of death, and I will give you life as your victor's crown.\" — Revelation 2:10</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The twelve disciples of Jesus, with the exception of John, all died as martyrs for their faith. Peter was crucified upside down, James was beheaded, Andrew was crucified on an X-shaped cross, and Thomas was speared to death in India. Their willingness to die for their testimony of the risen Christ stands as powerful evidence of their conviction and as an enduring example for persecuted believers throughout the ages.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Deaths of Disciples</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Be faithful, even to the point of death, and I will give you life as your victor's crown.\" — Revelation 2:10</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">The twelve disciples of Jesus, with the exception of John, all died as martyrs for their faith. Peter was crucified upside down, James was beheaded, Andrew was crucified on an X-shaped cross, and Thomas was speared to death in India. Their willingness to die for their testimony of the risen Christ stands as powerful evidence of their conviction and as an enduring example for persecuted believers throughout the ages.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-how-to-pray-for-persecuted-church",
+      "slug": "how-to-pray-for-persecuted-church",
+      "title": "How to Pray for the Persecuted Church",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "How to Pray for the Persecuted Church",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">How to Pray for the Persecuted Church</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.\" — James 5:16</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Prayer is the most powerful weapon in supporting the persecuted church. Pray for protection and safety for believers facing violence. Pray for courage and faith for those enduring imprisonment. Pray for comfort and provision for families who have lost loved ones. Pray for justice in legal cases. Pray for the hearts of persecutors to be transformed. Pray for government leaders to uphold religious freedom. Pray for Persecution Relief and other organizations serving the persecuted. Your prayers make a real difference.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">How to Pray for the Persecuted Church</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.\" — James 5:16</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Prayer is the most powerful weapon in supporting the persecuted church. Pray for protection and safety for believers facing violence. Pray for courage and faith for those enduring imprisonment. Pray for comfort and provision for families who have lost loved ones. Pray for justice in legal cases. Pray for the hearts of persecutors to be transformed. Pray for government leaders to uphold religious freedom. Pray for Persecution Relief and other organizations serving the persecuted. Your prayers make a real difference.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-bless-the-persecutors",
+      "slug": "bless-the-persecutors",
+      "title": "Bless the Persecutors",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Bless the Persecutors in Jesus Name",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Bless the Persecutors in Jesus Name</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Bless those who persecute you; bless and do not curse.\" — Romans 12:14</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">One of the most radical teachings of Jesus is to bless those who persecute us. This is not natural — it is supernatural. When we choose to bless rather than curse, we break the cycle of hatred and open the door for God's transformative power. Many former persecutors have become powerful evangelists after encountering the love and forgiveness of the believers they once tormented. At Persecution Relief, our motto — \"Serving Persecuted, Loving Persecutors\" — reflects this biblical command.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Bless the Persecutors in Jesus Name</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"Bless those who persecute you; bless and do not curse.\" — Romans 12:14</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">One of the most radical teachings of Jesus is to bless those who persecute us. This is not natural — it is supernatural. When we choose to bless rather than curse, we break the cycle of hatred and open the door for God's transformative power. Many former persecutors have become powerful evangelists after encountering the love and forgiveness of the believers they once tormented. At Persecution Relief, our motto — \"Serving Persecuted, Loving Persecutors\" — reflects this biblical command.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-i-am-jesus-whom-you-are-persecuting",
+      "slug": "i-am-jesus-whom-you-are-persecuting",
+      "title": "I Am Jesus Whom You Are Persecuting",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "I Am Jesus, Whom You Are Persecuting",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">I Am Jesus, Whom You Are Persecuting</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"He fell to the ground and heard a voice say to him, 'Saul, Saul, why do you persecute me?' 'Who are you, Lord?' Saul asked. 'I am Jesus, whom you are persecuting.'\" — Acts 9:4-5</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">When Saul of Tarsus was confronted by the risen Christ on the road to Damascus, Jesus identified Himself with the persecuted believers. To persecute Christians is to persecute Christ Himself. This profound truth reveals that Jesus stands in solidarity with every believer who suffers for His name. It also serves as a solemn warning to those who persecute — they are not merely opposing people, they are opposing the Lord of all creation.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">I Am Jesus, Whom You Are Persecuting</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <blockquote style=\"border-left:4px solid #2E7D32;padding:16px 24px;background:#fff;border-radius:0 8px 8px 0;margin-bottom:32px;font-style:italic;color:#555;font-size:1.05rem;line-height:1.7\">\"He fell to the ground and heard a voice say to him, 'Saul, Saul, why do you persecute me?' 'Who are you, Lord?' Saul asked. 'I am Jesus, whom you are persecuting.'\" — Acts 9:4-5</blockquote>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">When Saul of Tarsus was confronted by the risen Christ on the road to Damascus, Jesus identified Himself with the persecuted believers. To persecute Christians is to persecute Christ Himself. This profound truth reveals that Jesus stands in solidarity with every believer who suffers for His name. It also serves as a solemn warning to those who persecute — they are not merely opposing people, they are opposing the Lord of all creation.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-news-english",
+      "slug": "news-english",
+      "title": "News (English)",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Persecution Relief News – English",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Relief News</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:24px\">Stay updated with the latest reports, stories, and news about Christian persecution in India and our response efforts.</p>\n    <div style=\"background:#fff;border-radius:12px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,0.06);margin-bottom:24px\">\n      <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Church Attack in Rural Village</h3>\n      <p style=\"color:#666;font-size:0.9rem;line-height:1.6\">A small congregation faced violent disruption during Sunday worship. Persecution Relief responded immediately...</p>\n    </div>\n    <div style=\"background:#fff;border-radius:12px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n      <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Pastor Detained Without Charges</h3>\n      <p style=\"color:#666;font-size:0.9rem;line-height:1.6\">Our judicial response team secured the release of a pastor held for 72 hours without formal charges...</p>\n    </div>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Persecution Relief News</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:24px\">Stay updated with the latest reports, stories, and news about Christian persecution in India and our response efforts.</p>\n    <div style=\"background:#fff;border-radius:12px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,0.06);margin-bottom:24px\">\n      <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Church Attack in Rural Village</h3>\n      <p style=\"color:#666;font-size:0.9rem;line-height:1.6\">A small congregation faced violent disruption during Sunday worship. Persecution Relief responded immediately...</p>\n    </div>\n    <div style=\"background:#fff;border-radius:12px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,0.06)\">\n      <h3 style=\"font-size:1.1rem;font-weight:700;color:#333;margin-bottom:8px\">Pastor Detained Without Charges</h3>\n      <p style=\"color:#666;font-size:0.9rem;line-height:1.6\">Our judicial response team secured the release of a pastor held for 72 hours without formal charges...</p>\n    </div>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-news-hindi",
+      "slug": "news-hindi",
+      "title": "News (Hindi)",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "उत्पीड़न राहत समाचार – हिंदी",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">उत्पीड़न राहत समाचार</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">भारत में ईसाई उत्पीड़न की नवीनतम रिपोर्ट और समाचार। हिंदी में अपडेट प्राप्त करें।</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">उत्पीड़न राहत समाचार</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">भारत में ईसाई उत्पीड़न की नवीनतम रिपोर्ट और समाचार। हिंदी में अपडेट प्राप्त करें।</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-news-malayalam",
+      "slug": "news-malayalam",
+      "title": "News (Malayalam)",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "പീഡനനിവാരണ വാർത്ത – മലയാളം",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">പീഡനനിവാരണ വാർത്ത</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">ഇന്ത്യയിലെ ക്രിസ്ത്യൻ പീഡനത്തെക്കുറിച്ചുള്ള ഏറ്റവും പുതിയ വാർത്തകളും റിപ്പോർട്ടുകളും.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">പീഡനനിവാരണ വാർത്ത</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">ഇന്ത്യയിലെ ക്രിസ്ത്യൻ പീഡനത്തെക്കുറിച്ചുള്ള ഏറ്റവും പുതിയ വാർത്തകളും റിപ്പോർട്ടുകളും.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-prayerfully",
+      "slug": "prayerfully",
+      "title": "Prayerfully",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Prayerfully",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Prayerfully</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Prayer is the foundation of everything we do at Persecution Relief. We organize prayer chains, prayer vigils, and national days of prayer for persecuted Christians across India. Our prayer network connects thousands of intercessors who lift up specific requests from victims and their families. Join us in standing in the gap for those who suffer for their faith.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Prayerfully</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Prayer is the foundation of everything we do at Persecution Relief. We organize prayer chains, prayer vigils, and national days of prayer for persecuted Christians across India. Our prayer network connects thousands of intercessors who lift up specific requests from victims and their families. Join us in standing in the gap for those who suffer for their faith.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-financially",
+      "slug": "financially",
+      "title": "Financially",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Financially",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Financially</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Persecution often leaves victims and their families in desperate financial need. Medical bills from violent attacks, legal fees for false charges, loss of livelihood from social boycotts — the financial impact of persecution is devastating. Persecution Relief provides emergency financial assistance, medical support, legal aid funding, and long-term rehabilitation support to help families rebuild their lives.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Financially</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Persecution often leaves victims and their families in desperate financial need. Medical bills from violent attacks, legal fees for false charges, loss of livelihood from social boycotts — the financial impact of persecution is devastating. Persecution Relief provides emergency financial assistance, medical support, legal aid funding, and long-term rehabilitation support to help families rebuild their lives.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-politically",
+      "slug": "politically",
+      "title": "Politically",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Politically",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Politically</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Religious freedom is a fundamental right guaranteed by the Indian Constitution. Yet anti-conversion laws and political movements threaten the rights of Christians across India. Persecution Relief engages in political advocacy at the state and national level, working with legislators, filing legal challenges against unjust laws, and raising awareness about the political dimensions of religious persecution.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Politically</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Religious freedom is a fundamental right guaranteed by the Indian Constitution. Yet anti-conversion laws and political movements threaten the rights of Christians across India. Persecution Relief engages in political advocacy at the state and national level, working with legislators, filing legal challenges against unjust laws, and raising awareness about the political dimensions of religious persecution.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-judicially",
+      "slug": "judicially",
+      "title": "Judicially",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Judicially",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Judicially</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Many persecuted Christians face false criminal charges, illegal detention, and denial of due process. Persecution Relief provides legal representation through a network of Christian lawyers and advocates. We file FIRs (First Information Reports) on behalf of victims, challenge unjust arrests, and pursue justice in courts of law. Our judicial team has successfully secured the release of hundreds of wrongfully detained pastors and believers.</p>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Judicially</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin-bottom:32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8\">Many persecuted Christians face false criminal charges, illegal detention, and denial of due process. Persecution Relief provides legal representation through a network of Christian lawyers and advocates. We file FIRs (First Information Reports) on behalf of victims, challenge unjust arrests, and pursue justice in courts of law. Our judicial team has successfully secured the release of hundreds of wrongfully detained pastors and believers.</p>\n  </div>\n</section>"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-join-us",
+      "slug": "join-us",
+      "title": "Join Us",
+      "isHome": false,
+      "sections": [
+        {
+          "type": "about",
+          "title": "Join Us",
+          "settings": {
+            "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto;text-align:center\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Join Us</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin:0 auto 32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:32px\">Whether you can volunteer your time, donate financially, pray regularly, or spread awareness — there is a place for you in the Persecution Relief family. Together we can make a difference in the lives of persecuted believers across India.</p>\n    <div style=\"display:flex;gap:16px;justify-content:center;flex-wrap:wrap\">\n      <a href=\"/contact\" style=\"display:inline-block;padding:14px 40px;background:#2E7D32;color:#fff;font-weight:700;border-radius:8px;text-decoration:none;text-transform:uppercase\">Volunteer</a>\n      <a href=\"https://wa.me/911800123461\" style=\"display:inline-block;padding:14px 40px;background:#25D366;color:#fff;font-weight:700;border-radius:8px;text-decoration:none;text-transform:uppercase\">WhatsApp</a>\n    </div>\n  </div>\n</section>",
+            "layoutVariant": "ai-custom"
+          },
+          "customHtml": "<section style=\"background:#f5f5f5;padding:80px 24px\">\n  <div style=\"max-width:800px;margin:0 auto;text-align:center\">\n    <h1 style=\"color:#2E7D32;font-size:2rem;font-weight:800;margin-bottom:8px\">Join Us</h1>\n    <div style=\"width:60px;height:3px;background:#E65100;margin:0 auto 32px\"></div>\n    <p style=\"color:#444;font-size:1rem;line-height:1.8;margin-bottom:32px\">Whether you can volunteer your time, donate financially, pray regularly, or spread awareness — there is a place for you in the Persecution Relief family. Together we can make a difference in the lives of persecuted believers across India.</p>\n    <div style=\"display:flex;gap:16px;justify-content:center;flex-wrap:wrap\">\n      <a href=\"/contact\" style=\"display:inline-block;padding:14px 40px;background:#2E7D32;color:#fff;font-weight:700;border-radius:8px;text-decoration:none;text-transform:uppercase\">Volunteer</a>\n      <a href=\"https://wa.me/911800123461\" style=\"display:inline-block;padding:14px 40px;background:#25D366;color:#fff;font-weight:700;border-radius:8px;text-decoration:none;text-transform:uppercase\">WhatsApp</a>\n    </div>\n  </div>\n</section>"
         },
         {
-          "id": "ways-to-help",
-          "type": "services",
-          "items": [
-            {
-              "cta": {
-                "href": "/prayerfully",
-                "text": "Pray With Us"
-              },
-              "icon": "🙏",
-              "image": "https://images.unsplash.com/photo-1549045582-7476839352e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1Nnx8cHJheWluZ3xlbnwwfHx8fDE3MjE4MjE1NTh8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Prayerful Support",
-              "description": "Engage in intercessory prayer for the persecuted. Your prayers offer spiritual strength and tangible hope to those suffering. Join our global prayer network today and make a difference from wherever you are."
-            },
-            {
-              "cta": {
-                "href": "/financially",
-                "text": "Donate Now"
-              },
-              "icon": "💰",
-              "image": "https://images.unsplash.com/photo-1563207153-6119bc306c55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw3OXx8Z2l2aW5nJTIwY2hhcml0eSUyMGluZGlhfGVufDB8fHx8MTcyMTgyMTU1OXww&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Financial Contribution",
-              "description": "Your financial gifts directly fund legal aid, emergency relief, medical care, and advocacy efforts. Every rupee brings relief and sustains our operations. Your generosity fuels our mission."
-            },
-            {
-              "cta": {
-                "href": "/politically",
-                "text": "Get Involved Politically"
-              },
-              "icon": "📢",
-              "image": "https://images.unsplash.com/photo-1579758778810-72ee783931be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyMHx8cG9saXRpY2lhbiUyMGFjdGl2aXNtfGVufDB8fHx8MTcyMTgyMTU3MXww&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Political Engagement",
-              "description": "Learn how to engage with policymakers and write to your representatives to advocate for religious freedom and human rights in India. Your voice in the political sphere is powerful."
-            },
-            {
-              "cta": {
-                "href": "/judicially",
-                "text": "Support Judicial Efforts"
-              },
-              "icon": "🏛️",
-              "image": "https://images.unsplash.com/photo-1555212626-d621b16c80c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw1OHx8bGF3JTIwZmlybSUyMHRlYW18ZW5wwfHx8fDE3MjE4MjE1NjN8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Judicial Activism",
-              "description": "Support our legal team's efforts by volunteering or contributing to our legal aid fund. We challenge unjust laws and fight for justice in the courtroom."
-            },
-            {
-              "cta": {
-                "href": "/join-us",
-                "text": "Become a Volunteer"
-              },
-              "icon": "🫂",
-              "image": "https://images.unsplash.com/photo-1549060002-311400bfbf60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHw2Nnx8dm9sdW50ZWVyJTIwdGVhbXxlbnwwfHx8fDE3MjE4MjE1NjV8MA&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Join Our Team",
-              "description": "Offer your skills as a volunteer, researcher, or field worker. We need passionate individuals to expand our reach and strengthen our mission on the ground."
-            },
-            {
-              "cta": {
-                "href": "https://twitter.com/persecutionrel",
-                "text": "Follow Us"
-              },
-              "icon": "📣",
-              "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwyM3x8c3ByZWFkaW5nJTIwYXdhcmVuZXNzfGVufDB8fHx8MTcyMTgyMTU3MHww&ixlib=rb-4.0.3&q=80&w=1080",
-              "title": "Spread Awareness",
-              "description": "Share our reports, news, and calls to action on social media. Educate your community and amplify the voices of the persecuted. Awareness is the first step towards change."
-            }
-          ],
-          "title": "Make an Impact Today",
-          "layout": "grid-3"
+          "type": "contact",
+          "title": "Get In Touch"
         }
       ],
       "isVisible": true
@@ -775,7 +838,7 @@
       }
     ],
     "newsletter": {
-      "title": "Stay Informed & Act Now",
+      "title": "Stay Updated with Our Mission",
       "enabled": true,
       "buttonText": "Subscribe",
       "placeholder": "Enter your email for updates"
@@ -787,7 +850,7 @@
       "address": "Mumbai, Maharashtra, India",
       "phoneLink": "tel:18001234461"
     },
-    "description": "Persecution Relief is an NGO dedicated to reporting, documenting, and responding to Christian persecution across India through aid, advocacy & prayer. We bring hope.",
+    "description": "Persecution Relief is a nonprofit dedicated to documenting, advocating, and aiding Christian communities facing persecution across India.",
     "socialLinks": [
       {
         "url": "https://facebook.com/persecutionrelief",
@@ -803,7 +866,7 @@
       }
     ],
     "businessHours": {
-      "weekend": "24/7 Helpline: Always Available",
+      "weekend": "24/7 Helpline Active",
       "weekdays": "Mon - Fri: 9:00 AM - 5:00 PM (Office Hours)"
     },
     "backgroundColor": "#333333",
@@ -845,23 +908,45 @@
     "navItems": [
       {
         "href": "/",
+        "type": "page",
         "label": "Home"
       },
       {
         "href": "/about-us",
+        "type": "page",
         "label": "About Us"
       },
       {
         "href": "/persecution-promised",
+        "type": "page",
         "label": "Persecution"
       },
       {
-        "href": "/news-english",
-        "label": "News"
+        "href": "/contact",
+        "type": "page",
+        "label": "Contact Us"
       },
       {
-        "href": "/contact",
-        "label": "Contact Us"
+        "href": "/newsletter",
+        "type": "page",
+        "label": "Newsletter",
+        "children": [
+          {
+            "href": "/newsletter/en",
+            "type": "page",
+            "label": "English"
+          },
+          {
+            "href": "/newsletter/ml",
+            "type": "page",
+            "label": "മലയാളം"
+          },
+          {
+            "href": "/newsletter/hi",
+            "type": "page",
+            "label": "हिन्दी"
+          }
+        ]
       }
     ],
     "settings": {
@@ -1023,7 +1108,24 @@
         ]
       },
       {
-        "id": "mega-news-1773467820791",
+        "id": "contact-us",
+        "href": "/contact",
+        "icon": "Mail",
+        "type": "simple-dropdown",
+        "label": "Contact Us",
+        "children": [
+          {
+            "href": "/join-us",
+            "label": "Join Us"
+          },
+          {
+            "href": "/report-persecution",
+            "label": "Report Persecution"
+          }
+        ]
+      },
+      {
+        "id": "mega-news-1773503763096",
         "href": "/newsletter",
         "type": "simple-dropdown",
         "label": "Newsletter",
@@ -1045,23 +1147,6 @@
             "icon": "",
             "label": "हिन्दी",
             "description": "Hindi"
-          }
-        ]
-      },
-      {
-        "id": "contact-us",
-        "href": "/contact",
-        "icon": "Mail",
-        "type": "simple-dropdown",
-        "label": "Contact Us",
-        "children": [
-          {
-            "href": "/join-us",
-            "label": "Join Us"
-          },
-          {
-            "href": "/report-persecution",
-            "label": "Report Persecution"
           }
         ]
       }
@@ -1191,25 +1276,10 @@
         ]
       },
       {
-        "id": "news",
+        "id": "News",
         "href": "/news-english",
-        "icon": "Newspaper",
-        "type": "simple-dropdown",
-        "label": "News",
-        "children": [
-          {
-            "href": "/news-english",
-            "label": "Persecution Relief News – English"
-          },
-          {
-            "href": "/news-hindi",
-            "label": "Persecution Relief News – Hindi"
-          },
-          {
-            "href": "/news-malayalam",
-            "label": "Persecution Relief News – Malayalam"
-          }
-        ]
+        "type": "link",
+        "label": "News"
       },
       {
         "id": "contact-us",
@@ -1328,6 +1398,12 @@
       "title": "Contact Us"
     }
   ],
+  "githubConfig": {
+    "branch": "main",
+    "repoName": "persecution-relief",
+    "isPrivate": false,
+    "isRootDeploy": true
+  },
   "globalStyles": {
     "colors": {
       "text": "#1E293B",
