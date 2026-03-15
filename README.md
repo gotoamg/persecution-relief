@@ -1,6 +1,6 @@
 # Persecution Relief
 
-Persecution Relief is a nonprofit dedicated to documenting, advocating, and aiding Christian communities facing persecution across India.
+Persecution Relief is a nonprofit dedicated to reporting, documenting, and responding to Christian persecution in India.
 
 ## Development
 
