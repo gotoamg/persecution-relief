@@ -1313,6 +1313,12 @@
       "layout": "cards"
     }
   ],
+  "githubConfig": {
+    "branch": "main",
+    "repoName": "persecution-relief",
+    "isPrivate": false,
+    "isRootDeploy": true
+  },
   "globalStyles": {
     "colors": {
       "text": "#1E293B",
