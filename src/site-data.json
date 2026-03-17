@@ -954,23 +954,33 @@
       }
     ],
     "settings": {
+      "height": "tall",
       "layout": "centered",
-      "shadow": "sm",
-      "fontSize": "sm",
+      "shadow": "lg",
+      "ctaStyle": "filled",
+      "fontSize": "lg",
       "isSticky": true,
+      "paddingX": 16,
+      "paddingY": 6,
       "showLogo": true,
       "alignment": "center",
-      "linkStyle": "uppercase",
-      "textColor": "#333333",
+      "fullWidth": false,
+      "linkStyle": "normal",
+      "textColor": "#FFFFFF",
       "background": {
         "type": "solid",
-        "color": "#FFFFFF"
+        "color": "#0F0F0F",
+        "opacity": 100
       },
-      "hoverColor": "#2E7D32",
+      "fontFamily": "Oswald",
+      "hoverColor": "#EF4444",
       "linkWeight": "bold",
       "borderColor": "#E0E0E0",
+      "hoverEffect": "scale",
+      "itemSpacing": 20,
       "stickyStyle": "always",
-      "borderBottom": true,
+      "borderBottom": false,
+      "menuTemplate": "bold-navigation",
       "submenuStyle": {
         "preset": "clean",
         "shadow": "lg",
@@ -980,8 +990,22 @@
         "borderRadius": "md",
         "showDescriptions": true
       },
+      "animationType": "fade",
       "showCtaButton": false,
-      "scrollTransition": true
+      "hamburgerStyle": "bars",
+      "activeIndicator": "underline",
+      "dropdownHoverBg": "#374151",
+      "mobileMenuStyle": "drawer-right",
+      "mobileBreakpoint": "lg",
+      "scrollTransition": true,
+      "animationDuration": 300,
+      "dropdownTextColor": "#E5E7EB",
+      "scrolledBackground": {
+        "type": "blur",
+        "color": "#1F2937",
+        "opacity": 95,
+        "blurAmount": 12
+      }
     },
     "ctaButton": {
       "href": "/contact",
@@ -1161,7 +1185,7 @@
     ],
     "logoDimensions": {
       "width": "auto",
-      "height": 32,
+      "height": 80,
       "objectFit": "contain",
       "objectPosition": "left center"
     }
