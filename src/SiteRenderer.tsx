@@ -9,9 +9,9 @@ import { cn } from './lib/utils';
 
 // ===== Constants for visitor counter & newsletter redirect =====
 const SUPABASE_URL = "https://foemfjmfrulilubshnwn.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_zcPWS6oYdHX_ioWkNUAa-Q_w1BYwEFz";
-const EXPORTED_SITE_ID = "1773701520690";
-const PLATFORM_SITE_SLUG = "persecution-relief-mmts38du";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZvZW1mam1mcnVsaWx1YnNobnduIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUzMTgwMDgsImV4cCI6MjA4MDg5NDAwOH0.amehmaYIeVMh38QtQmvrLLaoravnPzzn4GUBPvPM_Pg";
+const EXPORTED_SITE_ID = "1773792470002";
+const PLATFORM_SITE_SLUG = "persecutionrelief";
 
 // ===== Inline FooterVisitorCounter =====
 function FooterVisitorCounter({ textColor }: { textColor?: string }) {
